@@ -98,7 +98,7 @@ For the coloured table elements, there are a couple of extra bits to know.
 
 Firstly, in the navigation bar there is an option called "Colours Explanation". When this is clicked, a popup will be displayed explaining the colour system, and giving you all the possible colours and what **item level** they represent.
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 This colouring system is the reason you assign a Tier to the Team, so the app knows what the max item level is in order to do these calculations.
 

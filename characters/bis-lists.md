@@ -24,7 +24,7 @@ The form in its current state is quite large, and split into 4 sections; Details
 
 ### Details
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1).png>)
 
 In the Details section, you can pick the Job associated with the list, and optionally add a URL. The URL can be to sites like etro and ariyala and while Savage Aim cannot currently import lists from these sites, it could be helpful to have an easy link to an external site as well.
 
