@@ -78,7 +78,7 @@ At the bottom of each card can exist a number of links depending on various circ
 
 #### &#x20;View on XXX
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1).png>)
 
 This option appears on all cards where the chosen BIS List has filled out the External URL input. The text displayed after "on" is parsed out of the given URL.
 

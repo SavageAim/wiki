@@ -4,7 +4,7 @@ description: Brief overview of the Changelog button
 
 # Changelog
 
-&#x20;![](<../.gitbook/assets/image (24).png>)
+&#x20;![](<../.gitbook/assets/image (5).png>)
 
 Whenever a new version is deployed, or if you click the Changelog link at the bottom of every page, you will be able to see the Changelog modal.
 

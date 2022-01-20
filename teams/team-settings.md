@@ -22,7 +22,7 @@ There is a plan to implement a regenerate feature here.
 
 ## Settings
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 This box contains all the settings that can be changed for a Team.
 
