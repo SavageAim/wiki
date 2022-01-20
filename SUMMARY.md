@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Home](README.md)
-* [Dev Roadmap](dev-roadmap.md)
 
 ## Characters
 
@@ -15,3 +14,8 @@
 * [Team Details](teams/team-details.md)
 * [Loot Manager](teams/loot-tracker.md)
 * [Team Settings](teams/team-settings.md)
+
+## Developer Visibility
+
+* [Changelog](developer-visibility/changelog.md)
+* [Dev Roadmap](developer-visibility/dev-roadmap.md)

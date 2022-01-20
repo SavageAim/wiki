@@ -29,7 +29,7 @@ The form in its current state is quite large, and split into 4 sections; Details
 In the Details section, you can pick the Job associated with the list, and optionally add a URL. The URL can be to sites like etro and ariyala and while Savage Aim cannot currently import lists from these sites, it could be helpful to have an easy link to an external site as well.
 
 {% hint style="info" %}
-Currently, due to having to figure some things out, you can currently only track one BIS List per Character per Job. This is something that should be dealt with in the near future, but you can check the [dev-roadmap.md](../dev-roadmap.md "mention") to see how progress is going.
+Currently, due to having to figure some things out, you can currently only track one BIS List per Character per Job. This is something that should be dealt with in the near future, but you can check the [dev-roadmap.md](../developer-visibility/dev-roadmap.md "mention") to see how progress is going.
 {% endhint %}
 
 ### BIS Gear

@@ -34,7 +34,7 @@ When you first import a Character, it will be unverified. The site needs to ensu
 
 When you get redirected to your new Character page, it should initially look something like this;
 
-![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (24) (1).png>)
 
 The amber box contains a message indicating that your character is unverified. Below the gray line is some text in blue, and a button. The text in blue is your verification code, which you will need to add to your Lodestone profile to ensure us that the Character is owned by the person that says they own it!
 
@@ -49,5 +49,5 @@ After a few seconds, refresh the page and if the verification was successful you
 ![](<../.gitbook/assets/image (13).png>)
 
 {% hint style="warning" %}
-If it wasn't successful, please double check the code was saved properly. In a near future update the app should be able to notify you about things that happen outside of your control, so keep an eye on the [dev-roadmap.md](../dev-roadmap.md "mention") to see when this feature has been added.
+If it wasn't successful, please double check the code was saved properly. In a near future update the app should be able to notify you about things that happen outside of your control, so keep an eye on the [dev-roadmap.md](../developer-visibility/dev-roadmap.md "mention") to see when this feature has been added.
 {% endhint %}
