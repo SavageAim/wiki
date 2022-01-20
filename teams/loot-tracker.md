@@ -62,6 +62,12 @@ Clicking this button will do two things.
 
 To avoid #2, you can also [#track-loot-manually](loot-tracker.md#track-loot-manually "mention").
 
+{% hint style="warning" %}
+Please note that for rings, the request will update whichever slot whose BIS is set to the raid gear. Please ensure that this doesn't mess with your current gear, i.e. overriding a tome ring instead of a crafted ring.
+
+If your item level on Savage Aim doesn't match FFXIV, and you've recently received ring loot, then this could be why.
+{% endhint %}
+
 #### Hover / Tap
 
 Also like the Team Details page, hovering or tapping the box displays the Current Gear tooltip.
