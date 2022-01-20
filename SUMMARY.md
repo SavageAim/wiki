@@ -13,5 +13,5 @@
 * [Create A Team](teams/create-a-team.md)
 * [Join A Team](teams/join-a-team.md)
 * [Team Details](teams/team-details.md)
-* [Loot Tracker](teams/loot-tracker.md)
+* [Loot Manager](teams/loot-manager.md)
 * [Team Settings](teams/team-settings.md)

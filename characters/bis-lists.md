@@ -50,7 +50,7 @@ This section is exactly the same as the BIS Gear section, but instead represents
 
 ### Filters
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 This provides a simple way of narrowing down the options for Gear choices to a range of item levels. Whenever new raid tiers are added, the default options will be changed to the range of that tier, but you can change these to a range of values starting from 560.
 
@@ -74,7 +74,7 @@ Also, the button at the bottom will say Save instead of Create, and the breadcru
 
 If you return to your character's page, you will see that your lists have been added to the BIS List box, and should look something like this;
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21) (1).png>)
 
 This darker box is a link to your BIS List's edit page. It shows the Job icon and name on the left, and on the right will be a little tag that indicates two things.&#x20;
 

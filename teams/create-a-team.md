@@ -24,7 +24,7 @@ If all is well, we can proceed with making your first Team.
 
 Clicking the "Add New" button below the "Your Teams" box should take you to a page that looks like this;
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20) (1).png>)
 
 For the purposes of this page, we will be ignoring the section at the bottom, and will instead click the "Create New Team" button at the top of the page, which should then take you to a page that looks like this;
 
@@ -56,7 +56,7 @@ Similarly, there is no limit to how many Teams one of your Characters can be a p
 
 ### BIS List
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 Selecting a BIS List allows you to indicate the role that your Character is playing in the Team. Once you have selected a Character, a "Add New" button will also appear, which you can click to be taken to the [#make-a-new-list](../characters/bis-lists.md#make-a-new-list "mention") page. Once you have, you will need to refresh this page for it to appear.
 
