@@ -8,7 +8,7 @@ description: Welcome to the Savage Aim wiki!
 
 Here we aim to have a collection of information to help with any questions you may have about using Savage Aim!
 
-The system is open source and you can report issues or view the whole code at https://github.com/Savage-Aim/app&#x20;
+The system is open source and you can report issues or view the whole code at [https://github.com/Savage-Aim/app](https://github.com/Savage-Aim/app)
 
 If needed, there can also be a Discord server set up with more direct opportunities to contact the main dev.
 
