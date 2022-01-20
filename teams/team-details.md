@@ -12,7 +12,7 @@ In the above image, I have joined the Team on an alt, just to show some differen
 
 The Team Details page is the main view of the Team. It shows all of the Characters in the Team, and all of their BIS List details.&#x20;
 
-At the top of the page are blue buttons, which link to [loot-manager.md](loot-manager.md "mention") and [team-settings.md](team-settings.md "mention").&#x20;
+At the top of the page are blue buttons, which link to [loot-tracker.md](loot-tracker.md "mention") and [team-settings.md](team-settings.md "mention").&#x20;
 
 {% hint style="info" %}
 Please note that the settings link will only appear if you are the current Team Leader.

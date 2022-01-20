@@ -40,7 +40,7 @@ The amber box contains a message indicating that your character is unverified. B
 
 Copy the full code in blue, and then visit [https://eu.finalfantasyxiv.com/lodestone/my/setting/profile/](https://eu.finalfantasyxiv.com/lodestone/my/setting/profile/) (there is a link to this page in the verification message also, where it says \<u>this page\</u>). In the box, enter the verification code like so;
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (19) (1).png>)
 
 Then click Confirm, and on the next page, click Confirm again. Once your Character's Lodestone profile has been updated, you can return to the Savage Aim page and click the Request Verification button. If all is well you should see a green popup stating that the request was successful.&#x20;
 

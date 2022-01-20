@@ -7,7 +7,7 @@ description: Join a Team created by someone else!
 If instead you are joining someone else's team, you will need to receive either an **invite code** or **invite link** from the Team's Leader.&#x20;
 
 {% hint style="info" %}
-If you're a Team Leader and you're trying to find where to get these, please check [team-settings.md](team-settings.md "mention").
+If you're a Team Leader and you're trying to find where to get these, please check [#invite-code](team-settings.md#invite-code "mention").
 {% endhint %}
 
 ## Join Via Code

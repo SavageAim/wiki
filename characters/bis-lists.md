@@ -18,13 +18,13 @@ To add a new BIS List, click the purple "Add New" button to the right of the BIS
 
 You should have ended up on a page that looks like this;
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 The form in its current state is quite large, and split into 4 sections; Details, BIS Gear, and Current Gear, which are the details required and maintained, and then a Filters section, which allows for filtering the gear in the dropdowns by a range of item levels. There is also a large green "Create" button at the bottom, which as the name suggests, will create the new List once ready.
 
 ### Details
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 In the Details section, you can pick the Job associated with the list, and optionally add a URL. The URL can be to sites like etro and ariyala and while Savage Aim cannot currently import lists from these sites, it could be helpful to have an easy link to an external site as well.
 

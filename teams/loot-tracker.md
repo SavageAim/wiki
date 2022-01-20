@@ -6,7 +6,7 @@ description: >-
 
 # Loot Manager
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 The Loot Manager is a semi-automated system of determining who needs what raid loot, and also a tracker of historical data for a Team throughout each Tier of their progress.
 
@@ -60,7 +60,7 @@ Clicking this button will do two things.
 1. Creates an entry in the Team's Loot History to keep track of who gets what.
 2. Updates the Character's BIS List to set their current gear to be the raid item.
 
-To avoid #2, you can also [#track-loot-manually](loot-manager.md#track-loot-manually "mention").
+To avoid #2, you can also [#track-loot-manually](loot-tracker.md#track-loot-manually "mention").
 
 #### Hover / Tap
 
@@ -68,7 +68,7 @@ Also like the Team Details page, hovering or tapping the box displays the Curren
 
 ## Greed
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 ![](<../.gitbook/assets/image (12).png>)
 
