@@ -29,3 +29,13 @@ Kicking members from a team, or leaving a team yourself, would be important plac
 But I want to have notifications set up first.
 
 To go hand in hand with this addition, I intend to make it so you can request to regenerate a Team's invite code so that if you need to kick people from a Team you can change the invite code to a new one.
+
+## Multiple BIS Lists per Job
+
+The reason this isn't already a thing is due to one little fact that stays in my head.&#x20;
+
+With how Gear and BIS Lists are represented internally, I limited BIS Lists to one per job for the simple debate of whether updating current Gear on one list for a Job should update them all automatically.
+
+Another question is should this feature extend to any lists for classes that share Gear in that slot, especially slaying accessories for example.&#x20;
+
+This is a question I am waiting to answer with a poll later, once the more required features have been added first.
