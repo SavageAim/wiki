@@ -27,3 +27,5 @@ Deleting a Team would need to notify people that it happened (see above).
 Kicking members from a team, or leaving a team yourself, would be important places to start. They're relatively easy and don't affect too much.&#x20;
 
 But I want to have notifications set up first.
+
+To go hand in hand with this addition, I intend to make it so you can request to regenerate a Team's invite code so that if you need to kick people from a Team you can change the invite code to a new one.
