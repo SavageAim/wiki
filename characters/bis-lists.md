@@ -54,10 +54,6 @@ This section is exactly the same as the BIS Gear section, but instead represents
 
 This provides a simple way of narrowing down the options for Gear choices to a range of item levels. Whenever new raid tiers are added, the default options will be changed to the range of that tier, but you can change these to a range of values starting from 560.
 
-{% hint style="warning" %}
-There is currently a minor bug with this where it can remove already chosen options if the filters make the items go out of range. This will be fixed soon.
-{% endhint %}
-
 ### Saving
 
 Once you've filled out all your details for the list, click the create button. If all is successful, you should see a green notification pop up, and the page will change to the edit version of the same page, for the new list you just made.
