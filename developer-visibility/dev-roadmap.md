@@ -6,6 +6,8 @@ description: What comes next for Savage Aim
 
 Below is a list of items I want to work on, in order of priority. You can skip this page if you're looking to get into the helpful part of the Wiki.
 
+A Trello board maintaining more granular information is available at [https://trello.com/b/elTOXk1W/savage-aim](https://trello.com/b/elTOXk1W/savage-aim)
+
 ## Live Notifications
 
 Given the nature of Savage Aim, with Teams of multiple Characters belonging to multiple people, I feel like it's worth having some sort of notification system in place for live updates.

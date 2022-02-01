@@ -26,9 +26,9 @@ The Characters are sorted by their Jobs, in the same order as FFXIV uses to list
 
 ### Heading
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16) (1).png>)
 
 The heading of the cards gives us a lot of information. On mobile a lot of the extraneous info is stripped out to maintain clarity however.
 
@@ -88,7 +88,7 @@ This option appears only on the card of your own Characters. This will take you 
 
 #### Change Character
 
-![](<../.gitbook/assets/image (23) (1).png>)
+![](<../.gitbook/assets/image (23) (1) (1).png>)
 
 This option appears only on the card of your own Characters. It will take you to a page that allows you to change the Character and/or BIS List associated with the Team.
 
@@ -102,12 +102,6 @@ Firstly, in the navigation bar there is an option called "Colours Explanation". 
 
 This colouring system is the reason you assign a Tier to the Team, so the app knows what the max item level is in order to do these calculations.
 
-#### Editing Colour Scheme
-
-![](<../.gitbook/assets/image (15).png>)
-
-In your user settings page, you can choose from a number of different colour palettes for the tables.&#x20;
-
-If you wish to request new colours, you can do so in the GitHub repo either via issue or pull request.
-
-![](<../.gitbook/assets/image (9).png>)
+{% hint style="info" %}
+To change the colour scheme in use, please see [#colour-scheme](../user-settings.md#colour-scheme "mention")!
+{% endhint %}

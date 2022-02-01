@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Home](README.md)
+* [User Settings](user-settings.md)
+* [Notifications](notifications.md)
 
 ## Characters
 

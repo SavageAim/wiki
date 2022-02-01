@@ -6,7 +6,7 @@ description: >-
 
 # Loot Manager
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 The Loot Manager is a semi-automated system of determining who needs what raid loot, and also a tracker of historical data for a Team throughout each Tier of their progress.
 
@@ -14,7 +14,7 @@ This page will go through each of the sections to the Loot Manager and explain h
 
 ## What Item Dropped
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21) (1).png>)
 
 In the box at the top of the page is a single dropdown input. This input contains the names of all of the item slots that can have gear drop for them.
 
@@ -22,9 +22,9 @@ Picking an item from this list will trigger the Need and Greed sections to activ
 
 ## Need
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (16).png>)
 
 The Need box starts like the first image. When an item is selected in the What Item Dropped selection, it gets populated like the second image.
 
@@ -72,11 +72,15 @@ If your item level on Savage Aim doesn't match FFXIV, and you've recently receiv
 
 Also like the Team Details page, hovering or tapping the box displays the Current Gear tooltip.
 
+#### Numbered Badge
+
+In the above picture, there is a circular badge with a 0 in it. This indicates that the Character has received 0 pieces of Need loot so far this Tier. This makes round-robin style obtaining of loot (the style my own static uses) easier to calculate!
+
 ## Greed
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 Similarly to the Need section above, the Greed section starts like the first image. When an item is selected, it becomes like the second picture.&#x20;
 
@@ -88,6 +92,8 @@ However, Greed is populated in a different way to Need.
 Similar to Need, there will be one dark box per character. However, as you can see above, there can be multiple entries in the box, depending on how many BIS Lists the Character has that needs the chosen slot.
 
 Everything else works the same as described in Need. The "Give Item" buttons will update the BIS List associated with whichever row you press the button for.
+
+The purple badge indicates how much Greed loot has been obtained, and is there for the same reason as it is on the Need side.
 
 ## Loot History
 

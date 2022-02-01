@@ -56,7 +56,7 @@ Similarly, there is no limit to how many Teams one of your Characters can be a p
 
 ### BIS List
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 Selecting a BIS List allows you to indicate the role that your Character is playing in the Team. Once you have selected a Character, a "Add New" button will also appear, which you can click to be taken to the [#make-a-new-list](../characters/bis-lists.md#make-a-new-list "mention") page. Once you have, you will need to refresh this page for it to appear.
 

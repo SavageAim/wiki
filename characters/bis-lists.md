@@ -18,7 +18,7 @@ To add a new BIS List, click the purple "Add New" button to the right of the BIS
 
 You should have ended up on a page that looks like this;
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 The form in its current state is quite large, and split into 4 sections; Details, BIS Gear, and Current Gear, which are the details required and maintained, and then a Filters section, which allows for filtering the gear in the dropdowns by a range of item levels. There is also a large green "Create" button at the bottom, which as the name suggests, will create the new List once ready.
 
@@ -34,7 +34,7 @@ Currently, due to having to figure some things out, you can currently only track
 
 ### BIS Gear
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17) (1).png>)
 
 This section of dropdowns allows you to pick the Best in Slot gear for the List. The options in the dropdowns are the various types of Gear you can acquire, filtered for what can be equipped in that slot.
 
@@ -50,7 +50,7 @@ This section is exactly the same as the BIS Gear section, but instead represents
 
 ### Filters
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1).png>)
 
 This provides a simple way of narrowing down the options for Gear choices to a range of item levels. Whenever new raid tiers are added, the default options will be changed to the range of that tier, but you can change these to a range of values starting from 560.
 
@@ -70,7 +70,7 @@ Also, the button at the bottom will say Save instead of Create, and the breadcru
 
 If you return to your character's page, you will see that your lists have been added to the BIS List box, and should look something like this;
 
-![](<../.gitbook/assets/image (21) (1).png>)
+![](<../.gitbook/assets/image (21) (1) (1).png>)
 
 This darker box is a link to your BIS List's edit page. It shows the Job icon and name on the left, and on the right will be a little tag that indicates two things.&#x20;
 
