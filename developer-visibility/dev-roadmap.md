@@ -4,6 +4,14 @@ description: What comes next for Savage Aim
 
 # Dev Roadmap
 
+{% hint style="danger" %}
+This page now only contains big missing chunks of functionality that are in my head as needed for the 1.0 release. For all other plans, please check the Trello board. It gives more information in a much nicer format than this!
+
+[https://trello.com/b/elTOXk1W/savage-aim](https://trello.com/b/elTOXk1W/savage-aim)
+
+Once 1.0 has been released I will likely remove this page in favour of just linking to the Trello!
+{% endhint %}
+
 Below is a list of items I want to work on, in order of priority. You can skip this page if you're looking to get into the helpful part of the Wiki.
 
 A Trello board maintaining more granular information is available at [https://trello.com/b/elTOXk1W/savage-aim](https://trello.com/b/elTOXk1W/savage-aim)
@@ -31,13 +39,3 @@ Kicking members from a team, or leaving a team yourself, would be important plac
 But I want to have notifications set up first.
 
 To go hand in hand with this addition, I intend to make it so you can request to regenerate a Team's invite code so that if you need to kick people from a Team you can change the invite code to a new one.
-
-## Multiple BIS Lists per Job
-
-The reason this isn't already a thing is due to one little fact that stays in my head.&#x20;
-
-With how Gear and BIS Lists are represented internally, I limited BIS Lists to one per job for the simple debate of whether updating current Gear on one list for a Job should update them all automatically.
-
-Another question is should this feature extend to any lists for classes that share Gear in that slot, especially slaying accessories for example.&#x20;
-
-This is a question I am waiting to answer with a poll later, once the more required features have been added first.
