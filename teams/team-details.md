@@ -78,7 +78,7 @@ At the bottom of each card can exist a number of links depending on various circ
 
 #### &#x20;View on XXX
 
-![](<../.gitbook/assets/image (5) (1) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1) (1).png>)
 
 This option appears on all cards where the chosen BIS List has filled out the External URL input. The text displayed after "on" is parsed out of the given URL.
 
@@ -88,7 +88,7 @@ This option appears only on the card of your own Characters. This will take you 
 
 #### Change Character
 
-![](<../.gitbook/assets/image (23) (1) (1).png>)
+![](<../.gitbook/assets/image (23) (1) (1) (1).png>)
 
 This option appears only on the card of your own Characters. It will take you to a page that allows you to change the Character and/or BIS List associated with the Team.
 
@@ -98,7 +98,7 @@ For the coloured table elements, there are a couple of extra bits to know.
 
 Firstly, in the navigation bar there is an option called "Colours Explanation". When this is clicked, a popup will be displayed explaining the colour system, and giving you all the possible colours and what **item level** they represent.
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 This colouring system is the reason you assign a Tier to the Team, so the app knows what the max item level is in order to do these calculations.
 

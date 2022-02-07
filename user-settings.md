@@ -4,7 +4,7 @@ description: Change some settings on the site!
 
 # User Settings
 
-![](<.gitbook/assets/image (15).png>)
+![](<.gitbook/assets/image (15) (1).png>)
 
 The User Settings page allows control over certain User specific details on the site. The different sections are outlined below.
 

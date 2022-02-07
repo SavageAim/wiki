@@ -10,23 +10,27 @@ Once you have your Characters imported and set up, we can begin to track the Gea
 
 After importing and verifying a Character, we should be on a page like this;
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (8).png>)
 
 To add a new BIS List, click the purple "Add New" button to the right of the BIS Lists box.
 
 ## Make a New List
 
-You should have ended up on a page that looks like this;
+You should have ended up on a page that looks something like this;
 
-![](<../.gitbook/assets/image (4) (1) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 The form in its current state is quite large, and split into 4 sections; Details, BIS Gear, and Current Gear, which are the details required and maintained, and then a Filters section, which allows for filtering the gear in the dropdowns by a range of item levels. There is also a large green "Create" button at the bottom, which as the name suggests, will create the new List once ready.
 
+On mobile, the form is split into tabs, and should look something like the below picture when you first load in. The tabs on mobile correspond with the sections above, but keep the mobile UI easier to use!
+
+![](<../.gitbook/assets/image (6).png>)
+
 ### Details
 
-![](<../.gitbook/assets/image (6) (1) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1) (1).png>)
 
-In the Details section, you can pick the Job associated with the list, and optionally add a URL. The URL can be to sites like etro and ariyala and while Savage Aim cannot currently import lists from these sites, it could be helpful to have an easy link to an external site as well.
+In the Details section, you can pick the Job associated with the list, and optionally add a URL. The URL can be to sites like Etro and Ariyala and, while Savage Aim cannot currently import lists from these sites, it could be helpful to have an easy link to an external site as well.
 
 {% hint style="info" %}
 Currently, due to having to figure some things out, you can currently only track one BIS List per Character per Job. This is something that should be dealt with in the near future, but you can check the [dev-roadmap.md](../developer-visibility/dev-roadmap.md "mention") to see how progress is going.
@@ -44,7 +48,7 @@ For any job other than Paladin, the "Off Hand" option will not be available to c
 
 ### Current Gear
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (25) (1).png>)
 
 This section is exactly the same as the BIS Gear section, but instead represents the gear you currently have on the Job. This information will be important for the Team pages later.
 
@@ -70,10 +74,6 @@ Also, the button at the bottom will say Save instead of Create, and the breadcru
 
 If you return to your character's page, you will see that your lists have been added to the BIS List box, and should look something like this;
 
-![](<../.gitbook/assets/image (21) (1) (1).png>)
+![](<../.gitbook/assets/image (18).png>)
 
-This darker box is a link to your BIS List's edit page. It shows the Job icon and name on the left, and on the right will be a little tag that indicates two things.&#x20;
-
-Firstly, the colour of the tag will be blue, green, or red, depending on if the Job is a Tank, Healer, or DPS.&#x20;
-
-Secondly, the number in the box displays the _current_ item level of the list. That is to say the item level of the gear you currently have equipped according to this list. This should match what the game tells you.
+A full breakdown and explanation of this page is available on the next page!

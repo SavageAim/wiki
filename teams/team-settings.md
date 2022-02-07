@@ -6,7 +6,7 @@ description: >-
 
 # Team Settings
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (23) (1).png>)
 
 This page is for Team Leaders only, and allows them to update some settings about the Team.
 
@@ -22,7 +22,7 @@ There is a plan to implement a regenerate feature here.
 
 ## Settings
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1).png>)
 
 This box contains all the settings that can be changed for a Team.
 
@@ -36,7 +36,7 @@ Here you can change the Tier the Team is currently raiding in.
 
 ### Team Lead
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 {% hint style="warning" %}
 Please be aware that changing this setting will make you no longer the Team Leader if you change it to a Character not owned by you. Please be sure you are changing it to the right person.

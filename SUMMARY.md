@@ -8,6 +8,7 @@
 
 * [Importing Characters](characters/importing-characters.md)
 * [BIS Lists](characters/bis-lists.md)
+* [Character Details](characters/character-details.md)
 
 ## Teams
 

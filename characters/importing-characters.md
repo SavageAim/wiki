@@ -8,7 +8,7 @@ description: All the details about getting your characters set up.
 
 When you log in to Savage Aim for the first time, the home screen should look something like this;
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (18) (1).png>)
 
 For the purposes of this document, we will be focusing on the Character section on the right. To begin importing your first Character, click the green "Add New" button below the "Your Characters" section.
 
@@ -16,7 +16,7 @@ For the purposes of this document, we will be focusing on the Character section 
 
 Clicking on the button will take you to this page;
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 Savage Aim uses the Lodestone for getting information about Characters, so we need to provide a URL for it to pull data from. Begin by finding the page for your Character using the Lodestone Character Search: [https://eu.finalfantasyxiv.com/lodestone/character/](https://eu.finalfantasyxiv.com/lodestone/character/)
 
@@ -46,8 +46,6 @@ Then click Confirm, and on the next page, click Confirm again. Once your Charact
 
 After a few seconds, refresh the page and if the verification was successful you should see the amber message has been replaced with a page that looks like this;
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (25).png>)
 
-{% hint style="warning" %}
-If it wasn't successful, please double check the code was saved properly. In a near future update the app should be able to notify you about things that happen outside of your control, so keep an eye on the [dev-roadmap.md](../developer-visibility/dev-roadmap.md "mention") to see when this feature has been added.
-{% endhint %}
+For a full breakdown of what this page can display, check the [character-details.md](character-details.md "mention") page!
