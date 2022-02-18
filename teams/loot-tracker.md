@@ -82,7 +82,7 @@ Need entries will have light blue badges, and greed entries will have purple bad
 
 ![](<../.gitbook/assets/image (4) (1) (1).png>)
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (23).png>)
 
 Similarly to the Need section above, the Greed section starts like the first image. When an item is selected, it becomes like the second picture.&#x20;
 
@@ -90,6 +90,7 @@ However, Greed is populated in a different way to Need.
 
 * The system checks all of a Character's BIS Lists, **excluding the one linked to the Team**.
 * If any of the Character's other BIS Lists need the raid gear for the chosen slot, they get displayed.
+* However, if a Character has no lists that match the item, they will also be displayed for Quality of Life purposes, instead of requiring people to use the manual update.
 
 Similar to Need, there will be one dark box per character. However, as you can see above, there can be multiple entries in the box, depending on how many BIS Lists the Character has that needs the chosen slot.
 
@@ -101,7 +102,7 @@ The purple badge indicates how much Greed loot has been obtained, and is there f
 
 In addition to tracking who needs what raid gear drops, the Loot Manager can also track how many augmentation tokens Characters need for both Tome Armour and Accessories. Due to the slight difference in what this information needs to display, the entries for Tome Augmentation items look slightly different that what is outlined in the above section.
 
-![](<../.gitbook/assets/image (23).png>)![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (23) (1).png>)![](<../.gitbook/assets/image (10).png>)
 
 ### Requires
 

@@ -88,7 +88,7 @@ This option appears only on the card of your own Characters. This will take you 
 
 #### Change Character
 
-![](<../.gitbook/assets/image (23) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (23) (1) (1) (1) (1).png>)
 
 This option appears only on the card of your own Characters. It will take you to a page that allows you to change the Character and/or BIS List associated with the Team.
 

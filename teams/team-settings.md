@@ -6,7 +6,7 @@ description: >-
 
 # Team Settings
 
-![](<../.gitbook/assets/image (23) (1).png>)
+![](<../.gitbook/assets/image (23) (1) (1).png>)
 
 This page is for Team Leaders only, and allows them to update some settings about the Team.
 
