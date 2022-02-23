@@ -4,7 +4,7 @@ description: Breakdown of the Character Details page
 
 # Character Details
 
-![](<../.gitbook/assets/image (15).png>)![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (19).png>)![](../.gitbook/assets/image.png)
 
 ## Character Bio
 
@@ -12,7 +12,22 @@ At the top left of the page is the Character Bio. It shows some information abou
 
 This information is not editable due to how Characters are imported.
 
-This box will have some functionality added to it later!
+At the bottom is a button to request the deletion of the Character.
+
+### Deletion
+
+![](<../.gitbook/assets/image (8).png>)
+
+Due to all the information being linked to the Character entry, deletion of Characters provides a detailed prompt like shown.
+
+The popup provides a list of items that will happen when a Character is deleted, and a text box in which you must type the name of the Character to confirm you are happy with their deletion.
+
+#### Results of Deletion
+
+* Character will leave Teams it is not the Leader of.
+* Character will disband Teams it leads with only one Character in them.
+* Character will pass Team Leadership to another Character in Teams they lead with multiple Characters.
+* All BIS Lists belonging to the Character will be deleted.
 
 ## Navigation
 
@@ -37,6 +52,18 @@ For safety and less confusion, the cards on the Character page contain a message
 {% endhint %}
 
 To edit an existing BIS List, click the "Edit" link at the bottom of the corresponding card. To create a new BIS List, click the purple "Add New" button above the lists.
+
+### Deletion
+
+![](<../.gitbook/assets/image (18).png>)![](<../.gitbook/assets/image (5).png>)
+
+Deleting a BIS List will permanently remove it from the Character. To Delete a BIS List simply click the "Delete" button below the card. Clicking this button will cause a popup like the above images to appear.
+
+If the chosen BIS List is in use in a Team, it won't be eligible for deletion until you either change the BIS List you're using, or leave the Team entirely.
+
+If there are Teams the BIS List is in use in, the "Change" link will take you directly to the Team Member management page for you to change Character and/or BIS List used in the Team.
+
+If the BIS List is not in use, it is safe to delete, like the Paladin example to the right.
 
 ## Teams
 

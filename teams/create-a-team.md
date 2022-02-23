@@ -12,7 +12,7 @@ If you are joining somebody else's Team, please check the [join-a-team.md](join-
 
 Returning to the home page, it should now hopefully look something like this;
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (25).png>)
 
 {% hint style="warning" %}
 If there are no Characters found, or your Character has a warning sign next to their name, please check the [Broken link](broken-reference "mention") page.
@@ -28,7 +28,7 @@ Clicking the "Add New" button below the "Your Teams" box should take you to a pa
 
 For the purposes of this page, we will be ignoring the section at the bottom, and will instead click the "Create New Team" button at the top of the page, which should then take you to a page that looks like this;
 
-![](<../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (26) (1).png>)
 
 This page has four required inputs, as detailed below. Everything can be changed by you later, so don't worry if you aren't happy with your choices later!
 
@@ -56,7 +56,7 @@ Similarly, there is no limit to how many Teams one of your Characters can be a p
 
 ### BIS List
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 Selecting a BIS List allows you to indicate the role that your Character is playing in the Team. Once you have selected a Character, a "Add New" button will also appear, which you can click to be taken to the [#make-a-new-list](../characters/bis-lists.md#make-a-new-list "mention") page. Once you have, you will need to refresh this page for it to appear.
 

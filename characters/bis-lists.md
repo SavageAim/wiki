@@ -10,7 +10,7 @@ Once you have your Characters imported and set up, we can begin to track the Gea
 
 After importing and verifying a Character, we should be on a page like this;
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 To add a new BIS List, click the purple "Add New" button to the right of the BIS Lists box.
 
@@ -24,11 +24,11 @@ The form in its current state is quite large, and split into 4 sections; Details
 
 On mobile, the form is split into tabs, and should look something like the below picture when you first load in. The tabs on mobile correspond with the sections above, but keep the mobile UI easier to use!
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 ### Details
 
-![](<../.gitbook/assets/image (6) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1) (1) (1).png>)
 
 In the Details section, you can pick the Job associated with the list, and optionally add a URL. The URL can be to sites like Etro and Ariyala and, while Savage Aim cannot currently import lists from these sites, it could be helpful to have an easy link to an external site as well.
 
@@ -38,7 +38,7 @@ Currently, due to having to figure some things out, you can currently only track
 
 ### BIS Gear
 
-![](<../.gitbook/assets/image (17) (1).png>)
+![](<../.gitbook/assets/image (17) (1) (1).png>)
 
 This section of dropdowns allows you to pick the Best in Slot gear for the List. The options in the dropdowns are the various types of Gear you can acquire, filtered for what can be equipped in that slot.
 
@@ -48,13 +48,13 @@ For any job other than Paladin, the "Off Hand" option will not be available to c
 
 ### Current Gear
 
-![](<../.gitbook/assets/image (25) (1).png>)
+![](<../.gitbook/assets/image (25) (1) (1).png>)
 
 This section is exactly the same as the BIS Gear section, but instead represents the gear you currently have on the Job. This information will be important for the Team pages later.
 
 ### Filters
 
-![](<../.gitbook/assets/image (3) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 This provides a simple way of narrowing down the options for Gear choices to a range of item levels. Whenever new raid tiers are added, the default options will be changed to the range of that tier, but you can change these to a range of values starting from 560.
 
@@ -74,6 +74,6 @@ Also, the button at the bottom will say Save instead of Create, and the breadcru
 
 If you return to your character's page, you will see that your lists have been added to the BIS List box, and should look something like this;
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (18) (1).png>)
 
 A full breakdown and explanation of this page is available on the next page!

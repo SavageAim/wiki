@@ -4,7 +4,7 @@ description: The basic Team page, showing all Characters and their BIS List prog
 
 # Team Details
 
-![](<../.gitbook/assets/image (12) (1).png>)
+![](<../.gitbook/assets/image (26).png>)
 
 {% hint style="info" %}
 In the above image, I have joined the Team on an alt, just to show some different features.&#x20;
@@ -26,9 +26,9 @@ The Characters are sorted by their Jobs, in the same order as FFXIV uses to list
 
 ### Heading
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
-![](<../.gitbook/assets/image (16) (1).png>)
+![](<../.gitbook/assets/image (16) (1) (1).png>)
 
 The heading of the cards gives us a lot of information. On mobile a lot of the extraneous info is stripped out to maintain clarity however.
 
@@ -50,7 +50,7 @@ At the right hand side is just the icon of the Job the Character is playing.
 
 ### Table
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 The coloured table is the most important part of the card. In a glance it can tell you how someone is progressing towards getting their BIS.
 
@@ -72,13 +72,13 @@ The colour of the boxes indicates the **item level of the gear currently equippe
 
 Hovering over (on PC) or tapping on (mobile / tablets) any of the coloured boxes displays the **name of the gear currently equipped** in that slot.
 
-### Footer Links
+### Footer Actions
 
-At the bottom of each card can exist a number of links depending on various circumstances. Each possible option and how they can appear are described below.
+At the bottom of each card, there will be an "Actions" button. Clicking on this will give a dropdown of several different potential actions to interact with the related Character.
+
+![](<../.gitbook/assets/image (21).png>)![](<../.gitbook/assets/image (24).png>)
 
 #### &#x20;View on XXX
-
-![](<../.gitbook/assets/image (5) (1) (1) (1).png>)
 
 This option appears on all cards where the chosen BIS List has filled out the External URL input. The text displayed after "on" is parsed out of the given URL.
 
@@ -88,9 +88,17 @@ This option appears only on the card of your own Characters. This will take you 
 
 #### Change Character
 
-![](<../.gitbook/assets/image (23) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (23) (1) (1) (1) (1) (1).png>)
 
 This option appears only on the card of your own Characters. It will take you to a page that allows you to change the Character and/or BIS List associated with the Team.
+
+#### Leave Team / Kick from Team
+
+![](<../.gitbook/assets/image (17).png>)![](<../.gitbook/assets/image (13).png>)
+
+Any Character has the option to leave a Team, and the Leader of the Team has the option to kick any other Member from it. Both of these will lead to a confirmation modal and, if confirmed, will notify the appropriate Users.
+
+See [#team\_kick](../notifications.md#team\_kick "mention") and [#team\_leave](../notifications.md#team\_leave "mention") for more details!
 
 ### Colour Scheme
 
@@ -98,7 +106,7 @@ For the coloured table elements, there are a couple of extra bits to know.
 
 Firstly, in the navigation bar there is an option called "Colours Explanation". When this is clicked, a popup will be displayed explaining the colour system, and giving you all the possible colours and what **item level** they represent.
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1).png>)
 
 This colouring system is the reason you assign a Tier to the Team, so the app knows what the max item level is in order to do these calculations.
 

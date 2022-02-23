@@ -6,7 +6,7 @@ description: >-
 
 # Loot Manager
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1).png>)
 
 The Loot Manager is a semi-automated system of determining who needs what raid loot, and also a tracker of historical data for a Team throughout each Tier of their progress.
 
@@ -14,7 +14,7 @@ This page will go through each of the sections to the Loot Manager and explain h
 
 ## What Item Dropped
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 In the box at the top of the page is a single dropdown input. This input contains the names of all of the item slots that can have gear / items drop for them.
 
@@ -22,9 +22,9 @@ Picking an item from this list will trigger the Need and Greed sections to activ
 
 ## Need
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16) (1).png>)
 
 The Need box starts like the first image. When an item is selected in the What Item Dropped selection, it gets populated like the second image.
 
@@ -82,7 +82,7 @@ Need entries will have light blue badges, and greed entries will have purple bad
 
 ![](<../.gitbook/assets/image (4) (1) (1).png>)
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (23) (1).png>)
 
 Similarly to the Need section above, the Greed section starts like the first image. When an item is selected, it becomes like the second picture.&#x20;
 
@@ -102,7 +102,7 @@ The purple badge indicates how much Greed loot has been obtained, and is there f
 
 In addition to tracking who needs what raid gear drops, the Loot Manager can also track how many augmentation tokens Characters need for both Tome Armour and Accessories. Due to the slight difference in what this information needs to display, the entries for Tome Augmentation items look slightly different that what is outlined in the above section.
 
-![](<../.gitbook/assets/image (23) (1).png>)![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (23) (1) (1).png>)![](<../.gitbook/assets/image (10).png>)
 
 ### Requires
 
@@ -122,9 +122,9 @@ Due to these points, it has been decided to prevent Tome Augment tokens from aut
 
 The Loot History box starts minimised, but clicking / tapping on it will expand it to display something like this.
 
-![](<../.gitbook/assets/image (20).png>)![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (16).png>)![](<../.gitbook/assets/image (7).png>)
 
-Each row in the table, or block in the mobile version to the right, indicates the date the item was obtained, the Character that received it, the Item that was received, and whether the item was Needed or Greeded.
+Each row in the table, or block in the mobile version to the right, indicates the date the item was obtained, the Character that received it, the Item that was received, and whether the item was obtained through Need or Greed.
 
 {% hint style="info" %}
 When you change to a new Tier, the History will be empty. This is because Loot History is tracked per Tier. To view your old Loot History, the Team Leader can change the Team's Tier back temporarily.
@@ -151,3 +151,19 @@ You can add items from the past, to any Character, and the Item dropdown contain
 * Mount
 
 Then you can click either Need or Greed to submit the request. If all is successful the item should appear in the list, otherwise red error text will be displayed next to whichever inputs are reporting errors.
+
+### Deletion
+
+![](<../.gitbook/assets/image (28).png>)
+
+If necessary, the Team Leader may delete Loot History records. This feature has been provided in case an error is made when using the Loot Manager.
+
+{% hint style="danger" %}
+Please note that deleting an entry that also updated a Character's BIS List will not revert the changes to the BIS List. Please be careful using the Loot Manager automated functions.
+{% endhint %}
+
+In the above images, Desktop users (image on the left) may delete multiple entries at once, using the checkboxes and Delete button in the bottom table row.
+
+Mobile users (image on the right) however must delete entries one at a time using the individual Delete buttons associated with each entry.
+
+Both platforms will receive a confirmation popup that must be accepted before any deletion will occur.
