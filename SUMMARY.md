@@ -22,3 +22,4 @@
 
 * [Changelog](developer-visibility/changelog.md)
 * [Dev Roadmap](developer-visibility/dev-roadmap.md)
+* [Security and Data Storage](developer-visibility/security-and-data-storage.md)
