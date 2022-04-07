@@ -14,7 +14,7 @@ This page will go through each of the sections to the Loot Manager and explain h
 
 ## What Item Dropped
 
-![](<../.gitbook/assets/image (9) (1).png>)
+![](<../.gitbook/assets/image (28).png>)
 
 In the box at the top of the page is a single dropdown input. This input contains the names of all of the item slots that can have gear / items drop for them.
 
@@ -154,7 +154,7 @@ Then you can click either Need or Greed to submit the request. If all is success
 
 ### Deletion
 
-![](<../.gitbook/assets/image (28).png>)
+![](<../.gitbook/assets/image (28) (1).png>)
 
 If necessary, the Team Leader may delete Loot History records. This feature has been provided in case an error is made when using the Loot Manager.
 
