@@ -102,7 +102,7 @@ The purple badge indicates how much Greed loot has been obtained, and is there f
 
 In addition to tracking who needs what raid gear drops, the Loot Manager can also track how many augmentation tokens Characters need for both Tome Armour and Accessories. Due to the slight difference in what this information needs to display, the entries for Tome Augmentation items look slightly different that what is outlined in the above section.
 
-![](<../.gitbook/assets/image (23) (1) (1).png>)![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (23) (1) (1).png>)![](<../.gitbook/assets/image (10) (1).png>)
 
 ### Requires
 
