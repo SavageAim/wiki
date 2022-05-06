@@ -78,3 +78,11 @@ To the right of the icon, is the name of the Team. Below that is the name of the
 At the bottom of the box, there is a set of Job icons. This is a list of icons of all the jobs of the Characters on the Team.
 
 On mobile, only the name of the Team and its Tier are displayed.
+
+## Settings
+
+![](<../.gitbook/assets/image (24).png>)
+
+Characters now have aliases, which is a name you can specify yourself to refer to the Character separately. The settings tab allows you to change your aliases.
+
+If set, aliases are displayed in the Character Bio card alongside the Character Name and Home World, and will be used in Team pages instead of the Character [#deletion](character-details.md#deletion "mention")[#deletion](character-details.md#deletion "mention")[#deletion](character-details.md#deletion "mention") World pattern currently in use.

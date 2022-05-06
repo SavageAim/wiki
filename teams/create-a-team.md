@@ -24,7 +24,7 @@ If all is well, we can proceed with making your first Team.
 
 Clicking the "Add New" button below the "Your Teams" box should take you to a page that looks like this;
 
-![](<../.gitbook/assets/image (20) (1).png>)
+![](<../.gitbook/assets/image (20) (1) (1).png>)
 
 For the purposes of this page, we will be ignoring the section at the bottom, and will instead click the "Create New Team" button at the top of the page, which should then take you to a page that looks like this;
 

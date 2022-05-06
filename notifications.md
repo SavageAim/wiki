@@ -10,7 +10,7 @@ description: Reference page for all of the notifications Savage Aim can provide.
 
 The Notifications panel, as outlined above, allows you to receive updates about things that happen in the system outside of your control. This panel will only ever load the latest 20 Notifications you have received.
 
-Clicking or tapping on any of the Notifications will navigate you to the page related to the Notification, and will also mark the notification as read. Read Notifications will lose the blue border, and the bell icon next to them will no longer be ringing, as seen in this image. ![](<.gitbook/assets/image (24) (1).png>)
+Clicking or tapping on any of the Notifications will navigate you to the page related to the Notification, and will also mark the notification as read. Read Notifications will lose the blue border, and the bell icon next to them will no longer be ringing, as seen in this image. ![](<.gitbook/assets/image (24) (1) (1).png>)
 
 Types of Notifications can be individually disabled in the [#notifications](user-settings.md#notifications "mention") page. Please note that this will only stop future Notifications of that type, all existing ones will remain.
 

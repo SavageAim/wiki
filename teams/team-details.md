@@ -36,9 +36,13 @@ The heading of the cards gives us a lot of information. On mobile a lot of the e
 
 On the far left side of the header, you can see icons taken from XIV. The P with an L beneath it indicates the Team Leader, and all other Team Members will just have the P icon with no L.
 
-#### Character Name / World
+#### Character Name & World / Alias
 
-Most of the time when Characters are displayed, they have the name and world displayed together. This is because Characters from different worlds can have different names.
+Most of the time when Characters are displayed, they have the name and world displayed together. This is because Characters from different worlds can have the same names.
+
+If Characters have an alias instead, it will instead display the alias of the Character. This was chosen since Team Members may have some air of familiarity and will know people by their alias.
+
+![](<../.gitbook/assets/image (20).png>)
 
 #### Item Level Tag
 
@@ -76,7 +80,7 @@ Hovering over (on PC) or tapping on (mobile / tablets) any of the coloured boxes
 
 At the bottom of each card, there will be an "Actions" button. Clicking on this will give a dropdown of several different potential actions to interact with the related Character.
 
-![](<../.gitbook/assets/image (21).png>)![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (21).png>)![](<../.gitbook/assets/image (24) (1).png>)
 
 #### &#x20;View on XXX
 
