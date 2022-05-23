@@ -6,7 +6,7 @@ description: >-
 
 # Loot Manager
 
-![](<../.gitbook/assets/image (3) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 The Loot Manager is a semi-automated system of determining who needs what raid loot, and also a tracker of historical data for a Team throughout each Tier of their progress.
 
@@ -14,7 +14,7 @@ This page will go through each of the sections to the Loot Manager and explain h
 
 ## What Item Dropped
 
-![](<../.gitbook/assets/image (28).png>)
+![](<../.gitbook/assets/image (28) (1).png>)
 
 In the box at the top of the page is a single dropdown input. This input contains the names of all of the item slots that can have gear / items drop for them.
 
@@ -82,7 +82,7 @@ Need entries will have light blue badges, and greed entries will have purple bad
 
 ![](<../.gitbook/assets/image (4) (1) (1).png>)
 
-![](<../.gitbook/assets/image (23) (1).png>)
+![](<../.gitbook/assets/image (15).png>)
 
 Similarly to the Need section above, the Greed section starts like the first image. When an item is selected, it becomes like the second picture.&#x20;
 
@@ -92,11 +92,13 @@ However, Greed is populated in a different way to Need.
 * If any of the Character's other BIS Lists need the raid gear for the chosen slot, they get displayed.
 * However, if a Character has no lists that match the item, they will also be displayed for Quality of Life purposes, instead of requiring people to use the manual update.
 
-Similar to Need, there will be one dark box per character. However, as you can see above, there can be multiple entries in the box, depending on how many BIS Lists the Character has that needs the chosen slot.
+Similar to Need, there will be one dark box per Character, with a purple badge indicating how much Greed loot has been obtained by them.&#x20;
 
-Everything else works the same as described in Need. The "Give Item" buttons will update the BIS List associated with whichever row you press the button for.
+However, due to Characters being able to have multiple BIS Lists that aren't associated with the Team, there is a second layer to the system for Greed lists. When giving loot to a Character with a Greed BIS List, the "Select BIS" button will take you to a popup that looks like this.
 
-The purple badge indicates how much Greed loot has been obtained, and is there for the same reason as it is on the Need side.
+![](<../.gitbook/assets/image (20).png>)
+
+Clicking one of these lists will update them, just like the Need section. However, the Greed side also contains entries for Characters with no extra BIS Lists on the website. This just makes it easier to add History entries for them in case they also get Greed loot.
 
 ## Tome Augmentation Items
 
@@ -154,7 +156,7 @@ Then you can click either Need or Greed to submit the request. If all is success
 
 ### Deletion
 
-![](<../.gitbook/assets/image (28) (1).png>)
+![](<../.gitbook/assets/image (28) (1) (1).png>)
 
 If necessary, the Team Leader may delete Loot History records. This feature has been provided in case an error is made when using the Loot Manager.
 

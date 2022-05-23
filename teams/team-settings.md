@@ -6,7 +6,7 @@ description: >-
 
 # Team Settings
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 This page is for Team Leaders only, and allows them to update some settings about the Team.
 
@@ -24,7 +24,7 @@ To ensure that kicked Characters can't return to the Team using the link you pre
 
 ## Settings
 
-![](<../.gitbook/assets/image (27) (1).png>)
+![](<../.gitbook/assets/image (27) (1) (1).png>)
 
 This box contains all the settings that can be changed for a Team.
 

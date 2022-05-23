@@ -4,7 +4,7 @@ description: Breakdown of the Character Details page
 
 # Character Details
 
-![](<../.gitbook/assets/image (19).png>)![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (19) (1).png>)![](../.gitbook/assets/image.png)
 
 ## Character Bio
 
@@ -16,7 +16,7 @@ At the bottom is a button to request the deletion of the Character.
 
 ### Deletion
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 Due to all the information being linked to the Character entry, deletion of Characters provides a detailed prompt like shown.
 
@@ -85,4 +85,4 @@ On mobile, only the name of the Team and its Tier are displayed.
 
 Characters now have aliases, which is a name you can specify yourself to refer to the Character separately. The settings tab allows you to change your aliases.
 
-If set, aliases are displayed in the Character Bio card alongside the Character Name and Home World, and will be used in Team pages instead of the Character [#deletion](character-details.md#deletion "mention")[#deletion](character-details.md#deletion "mention")[#deletion](character-details.md#deletion "mention") World pattern currently in use.
+If set, aliases are displayed in the Character Bio card alongside the Character Name and Home World, and will be used in Team pages instead of the Character / World pattern currently in use.

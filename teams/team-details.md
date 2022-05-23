@@ -4,7 +4,7 @@ description: The basic Team page, showing all Characters and their BIS List prog
 
 # Team Details
 
-![](<../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (26) (1).png>)
 
 {% hint style="info" %}
 In the above image, I have joined the Team on an alt, just to show some different features.&#x20;
@@ -42,7 +42,7 @@ Most of the time when Characters are displayed, they have the name and world dis
 
 If Characters have an alias instead, it will instead display the alias of the Character. This was chosen since Team Members may have some air of familiarity and will know people by their alias.
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20) (1).png>)
 
 #### Item Level Tag
 
@@ -54,7 +54,7 @@ At the right hand side is just the icon of the Job the Character is playing.
 
 ### Table
 
-![](<../.gitbook/assets/image (11) (1).png>)
+![](<../.gitbook/assets/image (11) (1) (1).png>)
 
 The coloured table is the most important part of the card. In a glance it can tell you how someone is progressing towards getting their BIS.
 
@@ -98,7 +98,7 @@ This option appears only on the card of your own Characters. It will take you to
 
 #### Leave Team / Kick from Team
 
-![](<../.gitbook/assets/image (17).png>)![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (17).png>)![](<../.gitbook/assets/image (13) (1).png>)
 
 Any Character has the option to leave a Team, and the Leader of the Team has the option to kick any other Member from it. Both of these will lead to a confirmation modal and, if confirmed, will notify the appropriate Users.
 

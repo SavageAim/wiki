@@ -26,9 +26,9 @@ Insert the code you were given in the box below, and click the "Join" button. If
 
 Once you have arrived on a page like this, either by following the code step above or by following your given **invite link**, you will be able to join the Team.
 
-![](<../.gitbook/assets/image (7) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (8).png>)
 
-The box above shows the current details of the Team you are joining. You can see the name and tier, and if you're on a computer you can also see the icons of the Jobs that the Characters already in the Team are playing.
+The box above shows the current details of the Team you are joining. You can see the name and tier and, if you're on a large screen device, you can also see the icons of the Jobs that the Characters already in the Team are playing. The names of the Characters on each Job are available by hovering over them.
 
 To join the Team, you need to fill out the two boxes below. The details of each are found in the [#character](create-a-team.md#character "mention") and [#bis-list](create-a-team.md#bis-list "mention") sections of the Create A Team page.
 
