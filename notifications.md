@@ -73,6 +73,18 @@ Whenever a Character leaves a Team that you Lead, you will receive a Notificatio
 
 Clicking a Notification of this type will take you to the Team's page.
 
+### team\_proxy\_claim
+
+Whenever a Proxy Character is claimed by a user, you will receive a Notification to inform you.
+
+Clicking a Notification of this type will take you to the Team's page.
+
+### team\_rename
+
+Whenever a Team you are in is renamed, you will receive a Notification to inform you.
+
+Clicking a Notification of this type will take you to the Team's page.
+
 ### verify\_fail
 
 If the verification process fails for one of your Characters, you will receive this Notification with information on why it failed.

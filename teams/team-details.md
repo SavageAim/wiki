@@ -18,6 +18,8 @@ At the top of the page are blue buttons, which link to [loot-tracker.md](loot-tr
 Please note that the settings link will only appear if you are the current Team Leader.
 {% endhint %}
 
+Just above the Team Cards is a button to allow you to add [proxy-characters.md](proxy-characters.md "mention")to the Team.
+
 ## Character Cards
 
 Each Character has a card with all of their details. In this section, all of the card's components will be broken down and explained.
@@ -30,11 +32,15 @@ The Characters are sorted by their Jobs, in the same order as FFXIV uses to list
 
 ![](<../.gitbook/assets/image (16) (1) (1).png>)
 
+![](<../.gitbook/assets/image (10).png>)
+
 The heading of the cards gives us a lot of information. On mobile a lot of the extraneous info is stripped out to maintain clarity however.
 
-#### Team Leader / Member Icons
+#### Team Leader / Member / Proxy Icons
 
 On the far left side of the header, you can see icons taken from XIV. The P with an L beneath it indicates the Team Leader, and all other Team Members will just have the P icon with no L.
+
+Proxy Characters are instead represented by the AFK red chair icon.
 
 #### Character Name & World / Alias
 
@@ -98,7 +104,7 @@ This option appears only on the card of your own Characters. It will take you to
 
 #### Leave Team / Kick from Team
 
-![](<../.gitbook/assets/image (17).png>)![](<../.gitbook/assets/image (13) (1).png>)
+![](<../.gitbook/assets/image (17) (2).png>)![](<../.gitbook/assets/image (13) (1).png>)
 
 Any Character has the option to leave a Team, and the Leader of the Team has the option to kick any other Member from it. Both of these will lead to a confirmation modal and, if confirmed, will notify the appropriate Users.
 

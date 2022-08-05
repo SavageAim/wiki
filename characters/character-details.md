@@ -16,7 +16,7 @@ At the bottom is a button to request the deletion of the Character.
 
 ### Deletion
 
-![](<../.gitbook/assets/image (8) (1).png>)
+![](<../.gitbook/assets/image (8) (1) (2).png>)
 
 Due to all the information being linked to the Character entry, deletion of Characters provides a detailed prompt like shown.
 
@@ -55,7 +55,7 @@ To edit an existing BIS List, click the "Edit" link at the bottom of the corresp
 
 ### Deletion
 
-![](<../.gitbook/assets/image (18).png>)![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (18).png>)![](<../.gitbook/assets/image (5) (2).png>)
 
 Deleting a BIS List will permanently remove it from the Character. To Delete a BIS List simply click the "Delete" button below the card. Clicking this button will cause a popup like the above images to appear.
 
@@ -81,7 +81,7 @@ On mobile, only the name of the Team and its Tier are displayed.
 
 ## Settings
 
-![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (24) (2).png>)
 
 Characters now have aliases, which is a name you can specify yourself to refer to the Character separately. The settings tab allows you to change your aliases.
 

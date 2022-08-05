@@ -46,6 +46,6 @@ Then click Confirm, and on the next page, click Confirm again. Once your Charact
 
 After a few seconds, refresh the page and if the verification was successful you should see the amber message has been replaced with a page that looks like this;
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (2).png>)
 
 For a full breakdown of what this page can display, check the [character-details.md](character-details.md "mention") page!
