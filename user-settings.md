@@ -12,7 +12,7 @@ The User Settings page allows control over certain User specific details on the 
 
 ![](<.gitbook/assets/image (3) (1) (1).png>)
 
-This setting is used to control the colours used on the [#character-cards](teams/team-details.md#character-cards "mention"). The dropdown at the top provides a list of the themes currently supported in the system. The choice is rendered in the table below, as a method of indicating what the chosen theme looks like.
+This setting is used to control the colours used on the [#character-cards](teams/team-overview.md#character-cards "mention"). The dropdown at the top provides a list of the themes currently supported in the system. The choice is rendered in the table below, as a method of indicating what the chosen theme looks like.
 
 {% hint style="info" %}
 Only this table updates live, to update other tables you will need to save first.

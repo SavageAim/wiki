@@ -45,11 +45,11 @@ As in other pages, this will display the name and home world of the Character.
 
 #### Item Level Tag
 
-Similarly to [#item-level-tag](team-details.md#item-level-tag "mention") on the Details page, a depiction of item level is displayed on the right side. However, instead of displaying the Character's current item level of their BIS List, this tag instead describes the current item level of **the currently equipped gear in the slot**.&#x20;
+Similarly to [#item-level-tag](team-overview.md#item-level-tag "mention") on the Details page, a depiction of item level is displayed on the right side. However, instead of displaying the Character's current item level of their BIS List, this tag instead describes the current item level of **the currently equipped gear in the slot**.&#x20;
 
 #### Job Icon
 
-Also displays the Job icon here for consistency with the [#heading](team-details.md#heading "mention") of cards in the Details page.
+Also displays the Job icon here for consistency with the [#heading](team-overview.md#heading "mention") of cards in the Details page.
 
 #### Give Item
 

@@ -4,7 +4,7 @@ description: Breakdown of the Character Details page
 
 # Character Details
 
-![](<../.gitbook/assets/image (19) (1).png>)![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (19) (1).png>)![](<../.gitbook/assets/image (8).png>)
 
 ## Character Bio
 
@@ -39,7 +39,7 @@ Only displaying one section at a time allows the page to display a lot more deta
 
 ## BIS Lists
 
-The BIS Lists section shows all of the Character's BIS Lists, in the same format as they are displayed on the [team-details.md](../teams/team-details.md "mention") page.
+The BIS Lists section shows all of the Character's BIS Lists, in the same format as they are displayed on the [team-overview.md](../teams/team-overview.md "mention") page.
 
 The major difference between the displays on the Team and Character pages is as follows;
 
@@ -71,7 +71,7 @@ The Teams section shows all of the Teams the Character is a part of, in a simila
 
 The dark box around each Team is a link, and clicking anywhere on the dark box will take you to that Team's page.
 
-The blue P icon to the left indicates that the Character is a regular Member of the Team. If they were instead the Team Leader, the icon displayed would be ![](<../.gitbook/assets/image (4).png>) instead.
+The blue P icon to the left indicates that the Character is a regular Member of the Team. If they were instead the Team Leader, the icon displayed would be ![](<../.gitbook/assets/image (4) (1).png>) instead.
 
 To the right of the icon, is the name of the Team. Below that is the name of the Tier the Team is currently working on.
 
@@ -85,4 +85,6 @@ On mobile, only the name of the Team and its Tier are displayed.
 
 Characters now have aliases, which is a name you can specify yourself to refer to the Character separately. The settings tab allows you to change your aliases.
 
-If set, aliases are displayed in the Character Bio card alongside the Character Name and Home World, and will be used in Team pages instead of the Character / World pattern currently in use.
+If set, aliases are displayed in the Character Bio card alongside the Character Name and Home World, and will be used in Team pages instead of the Character / World pattern currently in use, just like in the following image;
+
+![](<../.gitbook/assets/image (25).png>)

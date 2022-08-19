@@ -8,7 +8,7 @@ description: All the details about getting your characters set up.
 
 When you log in to Savage Aim for the first time, the home screen should look something like this;
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 For the purposes of this document, we will be focusing on the Character section on the right. To begin importing your first Character, click the green "Add New" button below the "Your Characters" section.
 

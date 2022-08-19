@@ -4,35 +4,43 @@ description: Characters owned by a Team instead of a User
 
 # Proxy Characters
 
-For the most part, these Characters are equivalent to the Characters made / managed by regular Users of the site. However, these are instead managed by the Team Leader, which allows Leaders to have all of their Members represented without requiring everyone to sign up to Savage Aim.
+Proxy Characters are special Characters that can be imported to specific Teams to maintain BIS data for XIV Characters whose players are not signed up to the website.
+
+For all intents and purposes, they function almost identically to User-owned Characters, but are instead managed by any Member of a Team who has been given permission.
+
+{% hint style="info" %}
+To access the functionality for adding / editing / removing Proxy Characters, please see the [manage-members.md](manage-members.md "mention") page.
+{% endhint %}
 
 ## Adding Proxy Characters
 
-A Team Leader when viewing the Team Details page will see the following image, with a green "Add Proxy Character" button.
+Clicking the "Add Proxy Character" button on the Manage Members page will take you to a page that looks like this;
 
-![](<../.gitbook/assets/image (5).png>)
-
-Clicking on this button will take them to a page that looks like this;
-
-![](<../.gitbook/assets/image (24).png>)
-
-To begin to add a Proxy Character, first you must obtain the Lodestone URL for the Character, similar to when adding a new Character to your own account. When the URL has been added and imported, a BIS List form will display underneath and the form will change appearance, like so;
-
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (19).png>)
 
 The BIS List form is almost the exact same as the normal one available to Characters, with some minor changes. Proxy BIS Lists cannot be given names, and all buttons related to Syncing have been removed.
 
-To change the Character, you can click the red "Reset" button which will change the box back into the form.
+To select a Character, you must provide the Lodestone link in the input at the top of the page and then press "Import". This will change the top card into something that looks like this;
 
-To save the Proxy Character, click the green "Create" button under the Character when you've filled in all this BIS Details.
+![](<../.gitbook/assets/image (32).png>)
+
+Once you fill in the BIS details below, you can click on the green "Create Proxy" to submit. If you accidentally copied the wrong Lodestone URL, you can instead click the red "Change Character" button to see the input once more.
+
+When added to the Team, Proxy Characters are displayed with the red chair AFK icon in the overview page, like so;
+
+![](<../.gitbook/assets/image (26).png>)
+
+Apart from that, they function identically to User-owned Characters, appearing in the Loot Manager when necessary, etc.
 
 ## Updating Proxy Characters
 
-![](<../.gitbook/assets/image (17).png>)
+To update a Proxy Character, simply click the "Edit Proxy BIS" button on the Manage Members page. This will take you to a very similar looking form, without the button to "Change Character";
 
-When added to the Team, Proxy Characters will have a red AFK chair next to their names in desktop versions of the Team Details page. For the Team Leader, there will also be an "Edit Proxy" option in their "Actions" dropdown, which will take them to the same page as shown above, only the ability to reset the Character is no longer present.
+![](<../.gitbook/assets/image (33).png>)
 
-To remove a Proxy Character from the Team, simply kick them.&#x20;
+Any additional updates to the BIS can be performed here.&#x20;
+
+If instead you wish to use a different Character as a Proxy, you should Kick the previously created one from the Manage Members page, and then Create a new one from scratch.
 
 ## Verifying and Claiming Proxy Characters
 
@@ -52,7 +60,7 @@ Each BIS List will be given the name of the Team that created it when merged int
 
 ### Claiming Characters via Team Join
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 A slight alternative to streamline the process a little is the option to attempt a claim via the [join-a-team.md](join-a-team.md "mention") pages.
 

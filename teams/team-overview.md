@@ -2,23 +2,21 @@
 description: The basic Team page, showing all Characters and their BIS List progression.
 ---
 
-# Team Details
+# Team Overview
 
-![](<../.gitbook/assets/image (26) (1).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 {% hint style="info" %}
 In the above image, I have joined the Team on an alt, just to show some different features.&#x20;
 {% endhint %}
 
-The Team Details page is the main view of the Team. It shows all of the Characters in the Team, and all of their BIS List details.&#x20;
+The Team Overview page is the main view of the Team. It shows all of the Characters in the Team, and all of their BIS List details.&#x20;
 
-At the top of the page are blue buttons, which link to [loot-tracker.md](loot-tracker.md "mention") and [team-settings.md](team-settings.md "mention").&#x20;
+At the top of the page are blue buttons, which link to [loot-tracker.md](loot-tracker.md "mention"), [manage-members.md](manage-members.md "mention"), and [team-settings.md](team-settings.md "mention").&#x20;
 
 {% hint style="info" %}
 Please note that the settings link will only appear if you are the current Team Leader.
 {% endhint %}
-
-Just above the Team Cards is a button to allow you to add [proxy-characters.md](proxy-characters.md "mention")to the Team.
 
 ## Character Cards
 
@@ -28,11 +26,11 @@ The Characters are sorted by their Jobs, in the same order as FFXIV uses to list
 
 ### Heading
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (2).png>)
 
 ![](<../.gitbook/assets/image (16) (1) (1).png>)
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (3).png>)
 
 The heading of the cards gives us a lot of information. On mobile a lot of the extraneous info is stripped out to maintain clarity however.
 
@@ -104,11 +102,15 @@ This option appears only on the card of your own Characters. It will take you to
 
 #### Leave Team / Kick from Team
 
-![](<../.gitbook/assets/image (17) (2).png>)![](<../.gitbook/assets/image (13) (1).png>)
+![](<../.gitbook/assets/image (17) (2).png>)![](<../.gitbook/assets/image (13) (1) (2).png>)
 
 Any Character has the option to leave a Team, and the Leader of the Team has the option to kick any other Member from it. Both of these will lead to a confirmation modal and, if confirmed, will notify the appropriate Users.
 
 See [#team\_kick](../notifications.md#team\_kick "mention") and [#team\_leave](../notifications.md#team\_leave "mention") for more details!
+
+{% hint style="warning" %}
+Please note that the Kick from Team button has been moved to the [manage-members.md](manage-members.md "mention") page, and this section will be removed from the wiki in future updates!
+{% endhint %}
 
 ### Colour Scheme
 

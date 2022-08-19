@@ -18,7 +18,7 @@ To add a new BIS List, click the purple "Add New" button to the right of the BIS
 
 You should have ended up on a page that looks something like this;
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (19) (2).png>)
 
 The form in its current state is quite large, and split into 5 sections; Details, BIS Gear, and Current Gear, which are the details required and maintained, and then a Filters section, which allows for filtering the gear in the dropdowns by a range of item levels. Lastly there is the Actions section which contains various buttons for interacting with the List.
 
@@ -30,7 +30,7 @@ The Actions section will be displayed below each tab for ease of use.
 
 ### Details
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (2).png>)
 
 In the Details section, you can pick the Job associated with the list, and optionally add a URL and a name.&#x20;
 
@@ -104,7 +104,7 @@ If this happens, please let me know by visiting the Discord!
 
 #### Load Current Gear
 
-![](<../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (26) (2).png>)
 
 Finally, this button allows you to populate the Current Gear section of the current BIS List with the Current Gear of a chosen other BIS List with the same Job.
 
