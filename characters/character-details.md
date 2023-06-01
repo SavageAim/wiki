@@ -8,11 +8,23 @@ description: Breakdown of the Character Details page
 
 ## Character Bio
 
+![](../.gitbook/assets/image.png)
+
 At the top left of the page is the Character Bio. It shows some information about the Character whose page you are currently on; their avatar from the Lodestone, name and world information.
 
 This information is not editable due to how Characters are imported.
 
-At the bottom is a button to request the deletion of the Character.
+At the bottom is a pair of buttons that allow for you to update and delete the Character.
+
+### Update
+
+Since players can change their Character's names, and move them to other homeworlds, it makes sense to have a button that can refresh this information from the Lodestone and update SavageAim.
+
+Clicking the "Update" button here will load data from XIVAPI for the Character using the Lodestone ID that is stored when Characters are created.&#x20;
+
+{% hint style="warning" %}
+Please note that due to any potential caching that Lodestone and/or XIVAPI may have for Character data, the updates may take up to 24 hours to work on SavageAim.
+{% endhint %}
 
 ### Deletion
 
