@@ -18,7 +18,7 @@ To add a new BIS List, click the purple "Add New" button to the right of the BIS
 
 You should have ended up on a page that looks something like this;
 
-![](<../.gitbook/assets/image (19) (2).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 The form in its current state is quite large, and split into 5 sections; Details, BIS Gear, and Current Gear, which are the details required and maintained, and then a Filters section, which allows for filtering the gear in the dropdowns by a range of item levels. Lastly there is the Actions section which contains various buttons for interacting with the List.
 
@@ -70,7 +70,7 @@ This section is exactly the same as the BIS Gear section, but instead represents
 
 ### Filters
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 This provides a simple way of narrowing down the options for Gear choices to a range of item levels. Whenever new raid tiers are added, the default options will be changed to the range of that tier, but you can change these to a range of values starting from 560.
 

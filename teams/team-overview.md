@@ -4,7 +4,7 @@ description: The basic Team page, showing all Characters and their BIS List prog
 
 # Team Overview
 
-![](<../.gitbook/assets/image (3) (3).png>)
+![](<../.gitbook/assets/image (3) (3) (1).png>)
 
 {% hint style="info" %}
 In the above image, I have joined the Team on an alt, just to show some different features.&#x20;

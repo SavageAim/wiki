@@ -62,7 +62,7 @@ When a new Character is added and verified, the join page will be updating to re
 
 The card on the bottom right of the image contains all of the Proxy Characters the Team has currently. If a Team has no Proxy Characters, it will display a message like this;
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (3).png>)
 
 If the Team does have a Proxy Character, that belongs to you, you can click on them to provide a popup like this;
 
