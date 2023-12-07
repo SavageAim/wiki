@@ -4,7 +4,7 @@ description: Change some settings on the site!
 
 # User Settings
 
-![](<.gitbook/assets/image (43).png>)
+<figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 The User Settings page allows control over certain User specific details on the site. The different sections are outlined below.
 
@@ -15,6 +15,12 @@ Any tab with unsaved changes will have their name marked with an asterisk (**\**
 \
 The "Save" button is always accessible under the tab selection.
 {% endhint %}
+
+## User Details
+
+<figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+
+The User Details tab allows you to edit your username, but it's left open to extend to more if people have any ideas!
 
 ## Colour Scheme
 
