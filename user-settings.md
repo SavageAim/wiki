@@ -4,13 +4,21 @@ description: Change some settings on the site!
 
 # User Settings
 
-![](<.gitbook/assets/image (15) (1) (1) (1).png>)
+![](<.gitbook/assets/image (43).png>)
 
 The User Settings page allows control over certain User specific details on the site. The different sections are outlined below.
 
+{% hint style="info" %}
+The Settings page has been expanded with a third option, and to facilitate a neat experience the individual settings have been separated into tabs.\
+\
+Any tab with unsaved changes will have their name marked with an asterisk (**\***).\
+\
+The "Save" button is always accessible under the tab selection.
+{% endhint %}
+
 ## Colour Scheme
 
-![](<.gitbook/assets/image (3) (1) (1).png>)
+![](<.gitbook/assets/image (44).png>)
 
 This setting is used to control the colours used on the [#character-cards](teams/team-overview.md#character-cards "mention"). The dropdown at the top provides a list of the themes currently supported in the system. The choice is rendered in the table below, as a method of indicating what the chosen theme looks like.
 
@@ -22,10 +30,16 @@ If you want to submit your own colour scheme suggestion, something can be organi
 
 ## Notifications
 
-![](<.gitbook/assets/image (14) (1) (1).png>)
+![](<.gitbook/assets/image (45).png>)
 
 This panel controls the Notifications you will receive in the system. Individual types of Notifications can be turned off and on as required, so you have full control over what types of events you will be informed of.
 
 {% hint style="info" %}
 For full details on the Notifications in the system, check [notifications.md](notifications.md "mention")!
 {% endhint %}
+
+## Loot Manager Version
+
+![](<.gitbook/assets/image (46).png>)
+
+This page allows you to pick between the Per Item Loot Manager ([loot-tracker.md](teams/loot-tracker.md "mention")) or the new Per Fight Loot Manager ([per-fight-loot-manager.md](teams/per-fight-loot-manager.md "mention")).&#x20;

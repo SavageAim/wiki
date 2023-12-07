@@ -16,6 +16,7 @@
 * [Join A Team](teams/join-a-team.md)
 * [Team Overview](teams/team-overview.md)
 * [Loot Manager](teams/loot-tracker.md)
+* [Per Fight Loot Manager](teams/per-fight-loot-manager.md)
 * [Manage Members](teams/manage-members.md)
 * [Proxy Characters](teams/proxy-characters.md)
 * [Team Settings](teams/team-settings.md)
