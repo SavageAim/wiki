@@ -18,7 +18,7 @@ To add a new BIS List, click the purple "Add New" button to the right of the BIS
 
 You should have ended up on a page that looks something like this;
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (2).png>)
 
 The form in its current state is quite large, and split into 5 sections; Details, BIS Gear, and Current Gear, which are the details required and maintained, and then a Filters section, which allows for filtering the gear in the dropdowns by a range of item levels. Lastly there is the Actions section which contains various buttons for interacting with the List.
 

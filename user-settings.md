@@ -24,7 +24,7 @@ The User Details tab allows you to edit your username, but it's left open to ext
 
 ## Colour Scheme
 
-![](<.gitbook/assets/image (44).png>)
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 This setting is used to control the colours used on the [#character-cards](teams/team-overview.md#character-cards "mention"). The dropdown at the top provides a list of the themes currently supported in the system. The choice is rendered in the table below, as a method of indicating what the chosen theme looks like.
 
@@ -33,6 +33,10 @@ Only this table updates live, to update other tables you will need to save first
 {% endhint %}
 
 If you want to submit your own colour scheme suggestion, something can be organised, but throw up an issue on the Github Repo if you can! One helpful tool I like to use is [https://vis4.net/palettes/#](https://vis4.net/palettes/), using 7 colours!
+
+{% hint style="info" %}
+The "Explanation of Colours" card below is an expandable card that gives the new explanation of what the colours mean. This used to be accessible as a popup in the navbar, but it was moved here to clean up clutter.
+{% endhint %}
 
 ## Notifications
 

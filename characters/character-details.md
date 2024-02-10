@@ -8,7 +8,7 @@ description: Breakdown of the Character Details page
 
 ## Character Bio
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 At the top left of the page is the Character Bio. It shows some information about the Character whose page you are currently on; their avatar from the Lodestone, name and world information.
 

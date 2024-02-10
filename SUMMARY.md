@@ -3,6 +3,7 @@
 * [Home](README.md)
 * [User Settings](user-settings.md)
 * [Notifications](notifications.md)
+* [Quick-Switcher](quick-switcher.md)
 
 ## Characters
 
