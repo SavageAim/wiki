@@ -22,7 +22,7 @@ Picking an item from this list will trigger the Need and Greed sections to activ
 
 ## Need
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (16) (1).png>)
 

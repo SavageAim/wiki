@@ -21,7 +21,7 @@ Clicking the "View All Notifications" page will take you to a separate page that
 ## Unread Badge
 
 Desktop View -![](<.gitbook/assets/image (4) (1) (2).png>)\
-Mobile View -![](<.gitbook/assets/image (1) (1).png>)
+Mobile View -![](<.gitbook/assets/image (1) (1) (1).png>)
 
 In the Navigation Bar, as shown above, there is an unread badge in both Desktop and Mobile views that indicates how many unread notifications you have. This is just to help bring it to your attention whenever new Notifications arrive.
 

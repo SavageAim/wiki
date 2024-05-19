@@ -18,13 +18,13 @@ To add a new BIS List, click the purple "Add New" button to the right of the BIS
 
 You should have ended up on a page that looks something like this;
 
-![](<../.gitbook/assets/image (2) (2).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 The form in its current state is quite large, and split into 5 sections; Details, BIS Gear, and Current Gear, which are the details required and maintained, and then a Filters section, which allows for filtering the gear in the dropdowns by a range of item levels. Lastly there is the Actions section which contains various buttons for interacting with the List.
 
 On mobile, the form is split into tabs, and should look something like the below picture when you first load in. The tabs on mobile correspond with the sections above, but keep the mobile UI easier to use!
 
-![](<../.gitbook/assets/image (14).png>)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 The Actions section will be displayed below each tab for ease of use.
 
@@ -70,13 +70,13 @@ This section is exactly the same as the BIS Gear section, but instead represents
 
 ### Filters
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (3).png>)
 
 This provides a simple way of narrowing down the options for Gear choices to a range of item levels. Whenever new raid tiers are added, the default options will be changed to the range of that tier, but you can change these to a range of values starting from 560.
 
 ### Actions Menu
 
-![](<../.gitbook/assets/image (27).png>)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 This set of buttons provides various features to help with creating and managing BIS Lists. Each button's function is outlined below.
 
@@ -90,7 +90,7 @@ This is the standard Create / Save button. Use this to save your information.
 
 When pressed, this button will display a popup like the one above. This allows you to select other BIS Lists for the same job that, when you click the "Create / Save and Sync" button, will have their Current Gear set to be the same as the BIS List you are currently creating / updating.
 
-#### Import
+#### Import from Etro
 
 When the Extra URL field is filled in with a link to an [https://etro.gg](https://etro.gg) gearset, this button will become active, allowing you to import the data from it and populate the BIS gear section.
 
@@ -100,6 +100,16 @@ Please note that due to the fact Etro stores each individual item, and Savage Ai
 The import system will find the most similar Gear name in the database for each item, and sometimes this algorithm may find closer names than expected.
 
 If this happens, please let me know by visiting the Discord!
+{% endhint %}
+
+#### Import from Lodestone
+
+This button will attempt to import whatever gear is currently equipped to your character as per their Lodestone page, and set the values of your "Current" gear to whatever it finds.
+
+It will only work if the gear worn by your character as per the Lodestone is equippable by the Job that the BIS is currently set to. If it is not, it will give an error message instead of changing the Job for the list.
+
+{% hint style="warning" %}
+Also note that similar to Etro imports, there is a level of name matching that may not always be 100% accurate!
 {% endhint %}
 
 #### Load Current Gear
