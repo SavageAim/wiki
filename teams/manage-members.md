@@ -4,7 +4,7 @@ description: A single page for managing all Members of a Team.
 
 # Manage Members
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 The Manage Members page provides the ability for Members, Permissions, and Proxy Characters to be maintained in a single place.
 
@@ -38,7 +38,7 @@ In the case where one User has multiple Characters in a Team, please be aware th
 
 ## Proxy Characters
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 The right hand side card (on desktop) has the controls for any Proxy Characters that the Team has.
 

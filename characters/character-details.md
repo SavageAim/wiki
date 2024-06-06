@@ -4,11 +4,11 @@ description: Breakdown of the Character Details page
 
 # Character Details
 
-![](<../.gitbook/assets/image (19) (1).png>)![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (19) (1) (1).png>)![](<../.gitbook/assets/image (8) (2).png>)
 
 ## Character Bio
 
-![](<../.gitbook/assets/image (2) (2).png>)
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 At the top left of the page is the Character Bio. It shows some information about the Character whose page you are currently on; their avatar from the Lodestone, name and world information.
 
@@ -16,7 +16,7 @@ This information is not editable due to how Characters are imported.
 
 At the bottom is a pair of buttons that allow for you to update and delete the Character.
 
-### Update
+### Re-Import
 
 Since players can change their Character's names, and move them to other homeworlds, it makes sense to have a button that can refresh this information from the Lodestone and update SavageAim.
 
@@ -67,7 +67,7 @@ To edit an existing BIS List, click the "Edit" link at the bottom of the corresp
 
 ### Deletion
 
-![](<../.gitbook/assets/image (18).png>)![](<../.gitbook/assets/image (5) (2).png>)
+![](<../.gitbook/assets/image (18) (1).png>)![](<../.gitbook/assets/image (5) (2).png>)
 
 Deleting a BIS List will permanently remove it from the Character. To Delete a BIS List simply click the "Delete" button below the card. Clicking this button will cause a popup like the above images to appear.
 
@@ -83,7 +83,7 @@ The Teams section shows all of the Teams the Character is a part of, in a simila
 
 The dark box around each Team is a link, and clicking anywhere on the dark box will take you to that Team's page.
 
-The blue P icon to the left indicates that the Character is a regular Member of the Team. If they were instead the Team Leader, the icon displayed would be ![](<../.gitbook/assets/image (4) (1).png>) instead.
+The blue P icon to the left indicates that the Character is a regular Member of the Team. If they were instead the Team Leader, the icon displayed would be ![](<../.gitbook/assets/image (4) (1) (3).png>) instead.
 
 To the right of the icon, is the name of the Team. Below that is the name of the Tier the Team is currently working on.
 
@@ -99,4 +99,4 @@ Characters now have aliases, which is a name you can specify yourself to refer t
 
 If set, aliases are displayed in the Character Bio card alongside the Character Name and Home World, and will be used in Team pages instead of the Character / World pattern currently in use, just like in the following image;
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (25) (1).png>)

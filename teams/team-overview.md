@@ -46,7 +46,7 @@ Most of the time when Characters are displayed, they have the name and world dis
 
 If Characters have an alias instead, it will instead display the alias of the Character. This was chosen since Team Members may have some air of familiarity and will know people by their alias.
 
-![](<../.gitbook/assets/image (20) (1).png>)
+![](<../.gitbook/assets/image (20) (1) (2).png>)
 
 #### Item Level Tag
 
@@ -82,46 +82,38 @@ Hovering over (on PC) or tapping on (mobile / tablets) any of the coloured boxes
 
 ### Footer Actions
 
-At the bottom of each card, there will be an "Actions" button. Clicking on this will give a dropdown of several different potential actions to interact with the related Character.
+Along the bottom of the card, there will be some buttons to interact with the Character. On Mobile, there will be just an "Actions" button which opens up a dropdown showing the exact same actions.
 
-![](<../.gitbook/assets/image (21).png>)![](<../.gitbook/assets/image (24) (1).png>)
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-#### &#x20;View on XXX
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-This option appears on all cards where the chosen BIS List has filled out the External URL input. The text displayed after "on" is parsed out of the given URL.
+#### &#x20;View Externally
 
-#### Edit List
+This option appears on all cards where the chosen BIS List has filled out the URL input. The text will be the domain that the URL points to.
+
+#### Edit BIS
 
 This option appears only on the card of your own Characters. This will take you directly to the edit page of the BIS List you have assigned to the Team for you to edit it quickly.
 
-#### Change Character
+#### Update Membership
 
 ![](<../.gitbook/assets/image (23) (1) (1) (1) (1) (1).png>)
 
 This option appears only on the card of your own Characters. It will take you to a page that allows you to change the Character and/or BIS List associated with the Team.
 
-#### Leave Team / Kick from Team
+#### Leave Team
 
-![](<../.gitbook/assets/image (17) (2).png>)![](<../.gitbook/assets/image (13) (1) (2).png>)
+![](<../.gitbook/assets/image (17) (2).png>)
 
-Any Character has the option to leave a Team, and the Leader of the Team has the option to kick any other Member from it. Both of these will lead to a confirmation modal and, if confirmed, will notify the appropriate Users.
-
-See [#team\_kick](../notifications.md#team\_kick "mention") and [#team\_leave](../notifications.md#team\_leave "mention") for more details!
-
-{% hint style="warning" %}
-Please note that the Kick from Team button has been moved to the [manage-members.md](manage-members.md "mention") page, and this section will be removed from the wiki in future updates!
-{% endhint %}
+This button will appear on the bottom of Characters that you own, and will prompt you with a popup to ensure you're sure you want to leave the Team.
 
 ### Colour Scheme
 
-For the coloured table elements, there are a couple of extra bits to know.
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>FFLogs Colour Scheme</p></figcaption></figure>
 
-Firstly, in the navigation bar there is an option called "Colours Explanation". When this is clicked, a popup will be displayed explaining the colour system, and giving you all the possible colours and what **item level** they represent.
+The tables use colours to indicate the difference between the BIS Item for a slot (indicated by the text in the box) and the Current Item.&#x20;
 
-![](<../.gitbook/assets/image (6) (1) (1).png>)
+When you choose a [#colour-scheme](../user-settings.md#colour-scheme "mention"), the table displayed on the page indicates how the different Item Levels are displayed in colour.
 
-This colouring system is the reason you assign a Tier to the Team, so the app knows what the max item level is in order to do these calculations.
-
-{% hint style="info" %}
-To change the colour scheme in use, please see [#colour-scheme](../user-settings.md#colour-scheme "mention")!
-{% endhint %}
+The non-BIS colours are generated off of the Max Item Level for the Tier. For example, an Accessory with Item Level 650 in a Tier with Max Item Level of 665 would be rendered with the "Max IL - 15" colour, if it was not the correct item for the slot.

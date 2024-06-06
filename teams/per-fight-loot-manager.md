@@ -8,11 +8,13 @@ description: >-
 
 ![](<../.gitbook/assets/image (36).png>)
 
-In the latest tier (6.4), changes were introduced that made every fight's loot consistent. We designed a new alternative version of the Loot Manager page that takes advantage of these changes.
+In Patch 6.4, changes were introduced that made every fight's loot consistent. We designed a new alternative version of the Loot Manager page that takes advantage of these changes.
 
 Instead of a dropdown for an item, you are presented with a dropdown for a whole fight. Selecting an item in this dropdown updates the page to look like this;
 
 ![](<../.gitbook/assets/image (37).png>)
+
+This works because every fight now consistently drops one of every possible item every time you kill it.
 
 ## Selecting Team Members
 

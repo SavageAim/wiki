@@ -6,7 +6,7 @@ description: >-
 
 # Loot Manager
 
-![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 The Loot Manager is a semi-automated system of determining who needs what raid loot, and also a tracker of historical data for a Team throughout each Tier of their progress.
 
@@ -14,7 +14,7 @@ This page will go through each of the sections to the Loot Manager and explain h
 
 ## What Item Dropped
 
-![](<../.gitbook/assets/image (28) (1).png>)
+![](<../.gitbook/assets/image (28) (1) (2).png>)
 
 In the box at the top of the page is a single dropdown input. This input contains the names of all of the item slots that can have gear / items drop for them.
 
@@ -22,9 +22,9 @@ Picking an item from this list will trigger the Need and Greed sections to activ
 
 ## Need
 
-![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (16) (1).png>)
+![](<../.gitbook/assets/image (16) (1) (2).png>)
 
 The Need box starts like the first image. When an item is selected in the What Item Dropped selection, it gets populated like the second image.
 
@@ -82,7 +82,7 @@ Need entries will have light blue badges, and greed entries will have purple bad
 
 ![](<../.gitbook/assets/image (4) (1) (1).png>)
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (2).png>)
 
 Similarly to the Need section above, the Greed section starts like the first image. When an item is selected, it becomes like the second picture.&#x20;
 
@@ -96,7 +96,7 @@ Similar to Need, there will be one dark box per Character, with a purple badge i
 
 However, due to Characters being able to have multiple BIS Lists that aren't associated with the Team, there is a second layer to the system for Greed lists. When giving loot to a Character with a Greed BIS List, the "Select BIS" button will take you to a popup that looks like this.
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20) (1).png>)
 
 Clicking one of these lists will update them, just like the Need section. However, the Greed side also contains entries for Characters with no extra BIS Lists on the website. This just makes it easier to add History entries for them in case they also get Greed loot.
 
@@ -104,7 +104,7 @@ Clicking one of these lists will update them, just like the Need section. Howeve
 
 In addition to tracking who needs what raid gear drops, the Loot Manager can also track how many augmentation tokens Characters need for both Tome Armour and Accessories. Due to the slight difference in what this information needs to display, the entries for Tome Augmentation items look slightly different that what is outlined in the above section.
 
-![](<../.gitbook/assets/image (23) (1) (1).png>)![](<../.gitbook/assets/image (10) (1).png>)
+![](<../.gitbook/assets/image (23) (1) (1).png>)![](<../.gitbook/assets/image (10) (1) (2).png>)
 
 ### Requires
 
@@ -120,11 +120,21 @@ Due to the nature of the items in question, when passing out loot via the Loot M
 
 Due to these points, it has been decided to prevent Tome Augment tokens from automatically update anyone's BIS Lists. Instead, they will just be tracked like the other items, and will be entered into the Loot History table just the same as handing out raid items would be.
 
+## Loot Solver
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Loot Solver Desktop</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Loot Solver Mobile</p></figcaption></figure>
+
+The Loot Solver is a new Beta feature that aims to get your Team through a fight in as few weeks as possible. It synergises with the [per-fight-loot-manager.md](per-fight-loot-manager.md "mention") but is useable with the standard Per-Item one as well.
+
+For more info on how it works, please check [loot-solver.md](loot-solver.md "mention")
+
 ## Loot History
 
 The Loot History box starts minimised, but clicking / tapping on it will expand it to display something like this.
 
-![](<../.gitbook/assets/image (16).png>)![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (16) (1).png>)![](<../.gitbook/assets/image (7) (2).png>)
 
 Each row in the table, or block in the mobile version to the right, indicates the date the item was obtained, the Character that received it, the Item that was received, and whether the item was obtained through Need or Greed.
 

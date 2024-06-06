@@ -4,7 +4,7 @@ description: Reference page for all of the notifications Savage Aim can provide.
 
 # Notifications
 
-![](<.gitbook/assets/image (21) (1).png>)
+![](<.gitbook/assets/image (21) (1) (1).png>)
 
 
 
@@ -21,13 +21,13 @@ Clicking the "View All Notifications" page will take you to a separate page that
 ## Unread Badge
 
 Desktop View -![](<.gitbook/assets/image (4) (1) (2).png>)\
-Mobile View -![](<.gitbook/assets/image (1) (1) (1).png>)
+Mobile View -![](<.gitbook/assets/image (1) (1) (1) (1).png>)
 
 In the Navigation Bar, as shown above, there is an unread badge in both Desktop and Mobile views that indicates how many unread notifications you have. This is just to help bring it to your attention whenever new Notifications arrive.
 
 ## Notifications Page
 
-![](<.gitbook/assets/image (17) (1).png>)
+![](<.gitbook/assets/image (17) (1) (2).png>)
 
 For consistency's sake, this is just a larger version of the Notifications popup. This page can list more than the 20 limit contained in the popup version.
 
@@ -90,6 +90,16 @@ Clicking a Notification of this type will take you to the Team's page.
 If the verification process fails for one of your Characters, you will receive this Notification with information on why it failed.
 
 Clicking a Notification of this type will take you to the Character's page.
+
+### verify\_reminder
+
+When you have a Character that has remained non-verified for 5 days out of the 7 allowed, you will receive a Notification of this type.
+
+Clicking a Notification of this type will take you to the Character's page.
+
+{% hint style="warning" %}
+This type is an important type, and therefore cannot be silenced via [user-settings.md](user-settings.md "mention").
+{% endhint %}
 
 ### verify\_success
 

@@ -16,7 +16,7 @@ To access the functionality for adding / editing / removing Proxy Characters, pl
 
 Clicking the "Add Proxy Character" button on the Manage Members page will take you to a page that looks like this;
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (19) (1).png>)
 
 The BIS List form is almost the exact same as the normal one available to Characters, with some minor changes. Proxy BIS Lists cannot be given names, and all buttons related to Syncing have been removed.
 
@@ -28,7 +28,7 @@ Once you fill in the BIS details below, you can click on the green "Create Proxy
 
 When added to the Team, Proxy Characters are displayed with the red chair AFK icon in the overview page, like so;
 
-![](<../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (26) (2).png>)
 
 Apart from that, they function identically to User-owned Characters, appearing in the Loot Manager when necessary, etc.
 

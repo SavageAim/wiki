@@ -12,7 +12,7 @@ If you are joining somebody else's Team, please check the [join-a-team.md](join-
 
 Returning to the home page, it should now hopefully look something like this;
 
-![](<../.gitbook/assets/image (25) (1).png>)
+![](<../.gitbook/assets/image (25) (1) (2).png>)
 
 {% hint style="warning" %}
 If there are no Characters found, or your Character has a warning sign next to their name, please check the [Broken link](broken-reference "mention") page.
@@ -28,7 +28,7 @@ Clicking the "Add New" button below the "Your Teams" box should take you to a pa
 
 For the purposes of this page, we will be ignoring the section at the bottom, and will instead click the "Create New Team" button at the top of the page, which should then take you to a page that looks like this;
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 This page has four required inputs, as detailed below. Everything can be changed by you later, so don't worry if you aren't happy with your choices later!
 
@@ -58,13 +58,13 @@ Similarly, there is no limit to how many Teams one of your Characters can be a p
 
 If you attempt to Create a new Team without having any Characters associated with your account, you'll see a message like this instead;
 
-![](<../.gitbook/assets/image (1) (1).png>)
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-The green button opens the page to add new Characters in another tab and when you have finished with that process, the tab for Creating a Team will have updated to contain the Character's information.
+Filling out the two inputs with valid URLs will automatically create a Character and BIS List, then use those to create the Team!
 
 ### BIS List
 
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
 
 Selecting a BIS List allows you to indicate the role that your Character is playing in the Team. Once you have selected a Character, a "Add New" button will also appear, which you can click to be given a popup version of the BIS List form. This will allow you to add a new BIS List without leaving the page.&#x20;
 

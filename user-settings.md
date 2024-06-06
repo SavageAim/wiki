@@ -9,11 +9,7 @@ description: Change some settings on the site!
 The User Settings page allows control over certain User specific details on the site. The different sections are outlined below.
 
 {% hint style="info" %}
-The Settings page has been expanded with a third option, and to facilitate a neat experience the individual settings have been separated into tabs.\
-\
-Any tab with unsaved changes will have their name marked with an asterisk (**\***).\
-\
-The "Save" button is always accessible under the tab selection.
+Any tab with unsaved changes will have their name marked with an asterisk (**\***).
 {% endhint %}
 
 ## User Details
@@ -24,7 +20,7 @@ The User Details tab allows you to edit your username, but it's left open to ext
 
 ## Colour Scheme
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 This setting is used to control the colours used on the [#character-cards](teams/team-overview.md#character-cards "mention"). The dropdown at the top provides a list of the themes currently supported in the system. The choice is rendered in the table below, as a method of indicating what the chosen theme looks like.
 

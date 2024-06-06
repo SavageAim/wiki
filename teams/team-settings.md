@@ -6,13 +6,13 @@ description: >-
 
 # Team Settings
 
-![](<../.gitbook/assets/image (15) (1).png>)
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 This page is for Team Leaders only, and allows them to update some settings about the Team.
 
 ## Invite Code
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (23) (1).png>)
 
 This box provides the **invite code** and **invite link** required for other users to have their Characters join the Team. You can provide either the code in the input, or the URL linked below, to potential new Members.
 
@@ -22,11 +22,11 @@ With the addition of the ability to kick members from the Team, the ability to r
 
 To ensure that kicked Characters can't return to the Team using the link you previously sent them, you (as the Team Leader) may first want to regenerate your invite code, so that when you do kick a Character, they should not be able to return to the Team.
 
-## Settings
+## General Settings
 
-![](<../.gitbook/assets/image (27) (1) (1).png>)
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-This box contains all the settings that can be changed for a Team.
+This box contains basic settings that can be changed for a Team.
 
 ### Team Name
 
@@ -57,3 +57,19 @@ If you wish to disband a Team completely, you may use the red Disband button at 
 Filling in the name of the Team into the box will allow you to click the Disband button on the popup, and remove the Team from the system.&#x20;
 
 This will also send [#team\_disband](../notifications.md#team\_disband "mention") Notifications to every other Team Member to inform them.
+
+## Solver Priority
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+This section allows you to update the priority for Jobs in the [loot-solver.md](loot-solver.md "mention"). The scrollable bar along the top shows a real-time display of your Team's current Solver sort order.
+
+To change the priority for a Job, click the Add New Override button, which should generate a box that looks like this;
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+From the bar along the top we can see that Paladin has moved to the first slot. As you change the Job and Position, the bar will update.
+
+Note that you can only override each position once, and can only specifiy one override position for Job.
+
+Once you're happy with your new priority, you can use the Save button to save your Team's data.
