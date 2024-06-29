@@ -6,7 +6,7 @@ description: >-
 
 # Loot Manager
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 The Loot Manager is a semi-automated system of determining who needs what raid loot, and also a tracker of historical data for a Team throughout each Tier of their progress.
 
@@ -22,7 +22,7 @@ Picking an item from this list will trigger the Need and Greed sections to activ
 
 ## Need
 
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (16) (1) (2).png>)
 
@@ -122,9 +122,9 @@ Due to these points, it has been decided to prevent Tome Augment tokens from aut
 
 ## Loot Solver
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Loot Solver Desktop</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Loot Solver Desktop</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Loot Solver Mobile</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Loot Solver Mobile</p></figcaption></figure>
 
 The Loot Solver is a new Beta feature that aims to get your Team through a fight in as few weeks as possible. It synergises with the [per-fight-loot-manager.md](per-fight-loot-manager.md "mention") but is useable with the standard Per-Item one as well.
 

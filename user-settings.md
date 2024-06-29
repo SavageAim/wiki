@@ -4,7 +4,7 @@ description: Change some settings on the site!
 
 # User Settings
 
-<figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 The User Settings page allows control over certain User specific details on the site. The different sections are outlined below.
 
@@ -14,13 +14,25 @@ Any tab with unsaved changes will have their name marked with an asterisk (**\**
 
 ## User Details
 
-<figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
-
 The User Details tab allows you to edit your username, but it's left open to extend to more if people have any ideas!
+
+### API Key
+
+In an effort to extend the functionality of the site to be open to external features (did someone say Dalamud Plugin?), we now support users creating an API Key. This API Key can be used to interact with the API as a User.&#x20;
+
+Clicking the "Generate API Key" button will replace the button with a display that looks like this;
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If anyone wants to create any extra tool/suite/etc to use/extend the SavageAim API, the API Key should be passed as `Authorization: Token <api_key>` in the headers of HTTP Requests.\
+\
+Also if you do end up making something with this, feel free to post it in the Discord and we can also feature it somewhere!
+{% endhint %}
 
 ## Colour Scheme
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This setting is used to control the colours used on the [#character-cards](teams/team-overview.md#character-cards "mention"). The dropdown at the top provides a list of the themes currently supported in the system. The choice is rendered in the table below, as a method of indicating what the chosen theme looks like.
 

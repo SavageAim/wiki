@@ -83,7 +83,7 @@ The Teams section shows all of the Teams the Character is a part of, in a simila
 
 The dark box around each Team is a link, and clicking anywhere on the dark box will take you to that Team's page.
 
-The blue P icon to the left indicates that the Character is a regular Member of the Team. If they were instead the Team Leader, the icon displayed would be ![](<../.gitbook/assets/image (4) (1) (3).png>) instead.
+The blue P icon to the left indicates that the Character is a regular Member of the Team. If they were instead the Team Leader, the icon displayed would be ![](<../.gitbook/assets/image (4) (1) (3) (1).png>) instead.
 
 To the right of the icon, is the name of the Team. Below that is the name of the Tier the Team is currently working on.
 

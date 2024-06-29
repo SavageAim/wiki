@@ -28,7 +28,7 @@ Clicking the "Add New" button below the "Your Teams" box should take you to a pa
 
 For the purposes of this page, we will be ignoring the section at the bottom, and will instead click the "Create New Team" button at the top of the page, which should then take you to a page that looks like this;
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (3).png>)
 
 This page has four required inputs, as detailed below. Everything can be changed by you later, so don't worry if you aren't happy with your choices later!
 
@@ -64,7 +64,7 @@ Filling out the two inputs with valid URLs will automatically create a Character
 
 ### BIS List
 
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>)
 
 Selecting a BIS List allows you to indicate the role that your Character is playing in the Team. Once you have selected a Character, a "Add New" button will also appear, which you can click to be given a popup version of the BIS List form. This will allow you to add a new BIS List without leaving the page.&#x20;
 

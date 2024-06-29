@@ -18,7 +18,7 @@ If you're joining via a code, you have a couple of extra steps to do over joinin
 
 Starting from the Home page, click the "Add New" button under "Your Teams". You should be on this page;
 
-![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
 
 Insert the code you were given in the box below, and click the "Join" button. If the code is correct, you should be taken to the same page as the **invite link** would have taken you, so we can continue the guide below.
 
