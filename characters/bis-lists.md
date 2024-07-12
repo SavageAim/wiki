@@ -74,6 +74,20 @@ The import system will find the most similar Gear name in the database for each 
 If this happens, please let me know by visiting the Discord!
 {% endhint %}
 
+#### Import from XIVGear
+
+Similarly to the above, SavageAim also supports importing gearsets from XIVGear.app. if a valid [https://xivgear.app](https://xivgear.app) URL is provided, then the button will change to the following;
+
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+
+Unlike Etro, XIVGear provides the ability to store multiple sets per sheet, and generate a URL that contains multiple sets. When a URL like this is used, the page will prompt you with a popup to decide which one to select. Clicking on one of the names will import that set.
+
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Please ensure to select either "Link to Whole Sheet" or "One Link for Each Set" when exporting from XIVGear to import into SavageAim!
+{% endhint %}
+
 ### Current Gear
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
