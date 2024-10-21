@@ -61,3 +61,13 @@ For full details on the Notifications in the system, check [notifications.md](no
 ![](<.gitbook/assets/image (46).png>)
 
 This page allows you to pick between the Per Item Loot Manager ([loot-tracker.md](teams/loot-tracker.md "mention")) or the new Per Fight Loot Manager ([per-fight-loot-manager.md](teams/per-fight-loot-manager.md "mention")).&#x20;
+
+## Loot Solver Settings
+
+<figure><img src=".gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+
+This section allows you to change settings related to the [loot-solver.md](teams/loot-solver.md "mention"). Currently the only setting you can edit is its greediness.
+
+The Loot Solver running in Greed-y mode will make it so it stops assigning items as soon as everyone can buy their last remaining augment token (or item in the case of the first floor).  This allows you to start assigning items for alternative BIS Lists slightly faster.
+
+It is freely toggleable, and will not break your current Loot Solver predictions to turn it on / off as you see fit!
