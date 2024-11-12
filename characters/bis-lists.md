@@ -140,6 +140,14 @@ After clicking the create button when making a new list, or clicking one of your
 
 Also, the button at the bottom will say Save instead of Create, and the breadcrumb trail at the top will state the name of the Job the List is for, instead of saying "New BIS List".
 
+## Quick Set to BIS
+
+<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+
+In situations where you have non-BIS Current Gear, and you want to quickly update your item to BIS without having to go through a whole dropdown to get there, we've added a new button on the Current side to quickly update your Current item for the slot to be BIS.
+
+The button will appear in any circumstance where the Current item for a slot does not match the BIS item.
+
 ## Character Page Display
 
 If you return to your character's page, you will see that your lists have been added to the BIS List box, and should look something like this;
