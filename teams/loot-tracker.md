@@ -22,7 +22,7 @@ Picking an item from this list will trigger the Need and Greed sections to activ
 
 ## Need
 
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (16) (1) (2).png>)
 
@@ -96,9 +96,11 @@ Similar to Need, there will be one dark box per Character, with a purple badge i
 
 However, due to Characters being able to have multiple BIS Lists that aren't associated with the Team, there is a second layer to the system for Greed lists. When giving loot to a Character with a Greed BIS List, the "Select BIS" button will take you to a popup that looks like this.
 
-![](<../.gitbook/assets/image (20) (1).png>)
+<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 Clicking one of these lists will update them, just like the Need section. However, the Greed side also contains entries for Characters with no extra BIS Lists on the website. This just makes it easier to add History entries for them in case they also get Greed loot.
+
+Lastly, the "Give Item to Character" button will just track the item in the History for the Character without giving it to one of their BIS Lists. For example, if someone takes a weapon drop from the 4th fight and it doesn't correspond with any of their BIS Lists, this button lets you track those drops easily.
 
 ## Tome Augmentation Items
 
@@ -122,7 +124,7 @@ Due to these points, it has been decided to prevent Tome Augment tokens from aut
 
 ## Loot Solver
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Loot Solver Desktop</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Loot Solver Desktop</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Loot Solver Mobile</p></figcaption></figure>
 

@@ -4,7 +4,7 @@ description: Change some settings on the site!
 
 # User Settings
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The User Settings page allows control over certain User specific details on the site. The different sections are outlined below.
 

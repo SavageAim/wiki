@@ -26,13 +26,11 @@ There are Need and Greed tabs that show who needs the item for their main bis, a
 
 To select a Greed list, you must first click or tap the name, which provides a dropdown like this;
 
-![](<../.gitbook/assets/image (40).png>)
+<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
-If the Member has a list that needs it, it will instead look like this;
+As you can see, Character 2 has Greed Lists, which you can choose to give them and it will update the corresponding list when it is saved.&#x20;
 
-![](<../.gitbook/assets/image (41).png>)
-
-Clicking one of the green buttons will select that list for the character, or if there are none, just the character itself.
+Alternatively, you can just choose the Character by clicking the large "Give Item to Character" button to give the item to the Character without updating any lists.
 
 ## Viewing Chosen Members
 
