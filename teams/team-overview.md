@@ -108,6 +108,12 @@ This option appears only on the card of your own Characters. It will take you to
 
 This button will appear on the bottom of Characters that you own, and will prompt you with a popup to ensure you're sure you want to leave the Team.
 
+#### Lodestone Update
+
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+
+This button allows Team Leaders to force update the Member's Current Gear from their Lodestone profile. Just in case any Members are forgetful :D
+
 ### Colour Scheme
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>FFLogs Colour Scheme</p></figcaption></figure>
